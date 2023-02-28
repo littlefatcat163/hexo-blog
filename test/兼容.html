@@ -1,0 +1,111 @@
+<!--
+ * @Desc: 
+ * @Autor<©>: maxuebin
+ * @Date: 2020-07-16 14:51:55
+ * @LastEditors: maxuebin
+ * @LastEditTime: 2020-08-11 10:13:08
+ * @FilePath: \hexo_blog\test\兼容.html
+--> 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>兼容</title>
+    <style>
+        .test-active {
+            color: #000;
+        }
+        .test-active:active {
+            color: palevioletred;
+        }
+        /* input::-ms-clear{display:none;} */
+        .triangle {
+            width: 0;
+            height: 0;
+            border: 10px solid transparent;
+            border-top-color: red;
+            border-right-color: yellow;
+            border-bottom-color: black;
+            border-left-color: blue;
+        }
+    </style>
+</head>
+<body>
+    <p>:active 伪类生效</p>
+    <a class="test-active" href="#">test-active</a>
+    <input type="text">
+    <div class="vcard">
+        <div class="fn org">Wikimedia Foundation Inc.</div>
+        <div class="adr">
+            <div class="street-address">200 2and Ave. South #358</div>
+            <div>
+                <span class="locality">St. Petersburg</span>,
+                <span class="region">FL</span><span class="postal-code">33701-4313</span>
+            </div>
+            <div class="country-name">USA</div>
+        </div>
+        <div>Phone: <span class="tel">+1-727-231-0101</span></div>
+        <div>Email: <span class="email">info@wikimeida.org</span></div>
+        <div>
+            <span class="tel"><span class="type">Fax</span>:
+            <span class="value">+1-727-258-0207</span></span>
+        </div>
+    </div>
+    The <abbr title="People's Republic of China">PRC</abbr> was founded in 1949.
+    <form action="">
+        <label for="num">num:</label>
+        <input type="text" name="" id="num">
+        <label>datetime</label>
+        <input type="datetime" name="" id="">
+    </form>
+    <img src="wugui.png" border="0" width="100" usemap="#Map" />
+    <map name="Map">
+        <area shape="circle" coords="50,50,50" href="www.baidu.com" target="_blank" />
+   </map>
+   <div class="triangle"></div>
+   <div>
+    <div style="height: 20px; /*margin-bottom: 10px;*/">上面元素</div>
+    <div style="height: 20px; margin-top: 30px;">下面元素</div>
+   </div>
+   <div>-----------------</div>
+    <div style="background-color:red;">
+        <div style="margin-top: 30px; background-color: cadetblue;">
+            子元素
+        </div>
+    </div>
+    <div>-----------------</div>
+    <div style="min-height: 100px; background-color: black; color: white;">min-height</div>
+    <ul><li>1</li><li>2</li></ul>
+    <div style="visibility: collapse;">visible test</div>
+    <table>
+        <tbody>
+            <tr>
+                <td>123</td>
+                <td>123</td>
+                <td>123</td>
+                <td>123</td>
+                <td>123</td>
+                <td>123</td>
+                <td>123</td>
+            </tr>
+            <tr>
+                <td>123</td>
+                <td>123</td>
+                <td>123</td>
+                <td>123</td>
+                <td>123</td>
+                <td>123</td>
+                <td>123</td>
+            </tr>
+        </tbody>
+    </table>
+    <div style="border:1px solid red; width:100px;">
+        <div style="margin:50px 0; background-color:green; height:50px; width:50px;">
+           <div style="margin:20px 0;">
+               <div style="margin:100px 0;">B</div>
+           </div>
+        </div>
+    </div>
+</body>
+</html>
