@@ -1,0 +1,23 @@
+:root {
+    --highlight-top-head: #f2f2f2;
+}
+figure.highlight {
+    background: var(--highlight-top-head);
+    border-radius: 8px;
+    padding-top: 25px;
+}
+figure.highlight::before {
+    background: #fc625d;
+    border-radius: 50%;
+    box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;
+    content: ' ';
+    height: 12px;
+    left: 12px;
+    margin-top: -15px;
+    position: absolute;
+    width: 12px;
+}
+[data-user-color-scheme="dark"] {
+    --highlight-bg-color: #0c0c0c;
+    --highlight-top-head: #000;
+}
