@@ -11,6 +11,7 @@ mermaid: true
 
 > https://git-scm.com/book/zh/v2
 > https://www.yiibai.com/git/git-quick-start.html
+> https://github.com/521xueweihan/git-tips
 > https://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html
 
 ## config
@@ -133,10 +134,12 @@ doc/**/*.txt
 ### stash temporary preservation
 
 - `git stash [save "info"]` stack way, fitst in, last out
+- `git stash -u` include untracked files
 - `git stash list` query stash record list
 - `git stash pop` apply recently stash and remove it from stash
 - `git stash apply [stash@{0}]` apply the index stash, won't remove it from stash,
 if I want to remove it, run `git stash drop [stash@{0}]`
+- `git stash clear` clear all stash
 
 ## stage command
 
@@ -148,6 +151,19 @@ if I want to remove it, run `git stash drop [stash@{0}]`
 `--amend` the purpose is to modify the commit record, even if the stage not file changed
 {% endnote %}
 - `git commit -am "commit info"` === `git add` + `git commit -m "commit info"`
+
+### commitizen
+> https://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html
+{% note success %}
+global install
+```sh
+npm install -g commitizen cz-conventional-changelog
+
+echo '{ "path": "cz-conventional-changelog" }' > ~/.czrc
+```
+then use `git cz` replace `git commit`
+{% endnote %}
+
 
 ### log
 
