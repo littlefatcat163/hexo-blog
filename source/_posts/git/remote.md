@@ -77,6 +77,12 @@ git rebase -i HEAD~3
 
 ![rebase-commit](/img/git/rebase-commit.webp)
 
+### cherry-pick
+
+一次转移一次commit，会有新的commitid产生
+- `git cherry-pick <commit...>` 将commit移植到当前branch
+- `git cherry-pick <branch1>` 将branch1上最近的一次commit，转移到当前branch
+
 ### remote
 
 - `git remote [-v]` query remote branch
@@ -97,13 +103,15 @@ git push -u origin new-branch
 - `git push --set-upstream origin develop` remote create develop and mapping local develop
 - `git push -f origin branch3:refs/branch1` use local branch3 over remote branch1
 - `git push origin :refs/branch1` delete remote branch1
-- `git push origin --tags` push commit and tags
-- `git push origin <tag>` push the tag
+- `git push origin --tags` push commit and all tags
+- `git push origin <tag...>` push the tag
 - `git push origin :<tag>` delete remote tag
 
 ### pull
 
 - `git fetch` fetch remote origin
+- `git fetch origin tag v1` fetch remote v1's tag to local
+- `git pull origin --delete tag v1` delete remote the tag of v1
 - `git pull [origin] [remote-branch]:[local-branch]` pull remote-branch to local-branch === `git fetch` + `git merge`
 always I use `--rebase` now === `git fecth & git rebase`, 
 ```sh

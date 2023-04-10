@@ -217,3 +217,17 @@ gitGraph
    commit
 ```
 {% endnote %}
+
+### tag
+
+{% note primary %}
+一个静态快照，增加一个指针，与branch无关联，tag 和 commit 没什么大的区别，只是比sha1更容易识别
+{% endnote %}
+
+- `git tag v1` 轻量级tag，只是生成一个指针指向commit
+- `git tag -a v2 -m "release version"` 重量级tag，带注释，生成一个tag object，有自己的id，还有一个指针指向commit
+- `git tag` 查看tag
+- `git tag -d <tag...>` 删除tag
+- `git tag -l "v1"` 查看v1 tag
+- `git tag -l "*2"` 查看2结尾的tag
+- `git tag -l "1*"` 查看1开头的tag
