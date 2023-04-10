@@ -79,6 +79,7 @@ git rebase -i HEAD~3
 
 ### remote
 
+- `git remote [-v]` query remote branch
 - `git remote add origin <url>` add remote origin
 - `git remote set-url origin <url>` modify the url of the remote origin
 - `git remote show origin` show origin info
@@ -92,6 +93,13 @@ git push origin develop:develop
 # -u push new-branch to remote new-branch, if origin hasn't new-branch
 git push -u origin new-branch
 ```
+- `git push --force origin` 强推
+- `git push --set-upstream origin develop` remote create develop and mapping local develop
+- `git push -f origin branch3:refs/branch1` use local branch3 over remote branch1
+- `git push origin :refs/branch1` delete remote branch1
+- `git push origin --tags` push commit and tags
+- `git push origin <tag>` push the tag
+- `git push origin :<tag>` delete remote tag
 
 ### pull
 
