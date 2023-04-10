@@ -6,7 +6,6 @@ tags: [git]
 index_img: /img/git/git.webp
 banner_img: /img/git/git.webp
 date: 2023-04-10 01:23:35
-mermaid: true
 ---
 
 ## repository command
