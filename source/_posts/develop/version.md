@@ -8,6 +8,8 @@ banner_img: /img/code.jpg
 date: 2023-04-10 18:06:14
 ---
 
+> https://semver.org/lang/zh-CN/
+
 ## 版本格式
 
 ![version number](/img/develop/version-num.webp)
