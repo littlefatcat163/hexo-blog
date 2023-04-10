@@ -1,6 +1,6 @@
 ---
 title: git
-excerpt: git introduce
+excerpt: introduce and command
 index_img: /img/git/git.webp
 banner_img: /img/git/git.webp
 date: 2023-04-09 14:11:09

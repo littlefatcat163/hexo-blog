@@ -719,7 +719,9 @@ post:
     specific: true
 
     # See: http://mermaid-js.github.io/mermaid/
-    options: { theme: 'dark' }
+    #options: { theme: 'dark', themeVariables:  }
+    options:
+      theme: 'dark'
 
   # 评论插件
   # Comment plugin
