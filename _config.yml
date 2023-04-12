@@ -102,6 +102,8 @@ theme: fluid
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:littlefatcat163/blog.git
+  branch: [main]
 
 neat_enable: true
