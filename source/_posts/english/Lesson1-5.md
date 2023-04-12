@@ -96,7 +96,7 @@ How are you? 你好吗？
 How is Helen today? 海伦今天好吗？
 How have you been? 你一向可好？
 
-2. <del>How do you do?</del> 你好。 How are you?
+2. ~How do you do?~ 你好。 How are you?
 
 3. 询问目前状况
 How's life? 生活怎样？
