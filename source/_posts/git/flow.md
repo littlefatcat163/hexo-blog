@@ -17,7 +17,7 @@ date: 2023-04-11 17:34:24
 3. 最后，对于已经发布的代码，也会有一些 Bug-fix 的改动，不会将正在开发的代码提交到生产线上去。
 
 所以，GitFlow由此产生，核心思想如下图所示：
-![gitflow](/img/git/gitflow.png)
+![gitflow](/img/git/gitflow.jpg)
 
 ## GitFlow
 
@@ -43,7 +43,7 @@ date: 2023-04-11 17:34:24
 1. 需要同时维护  {% label info @Master %} 和 {% label primary @Develop %}，整个开发过程会应为复杂，尤其时rollback的时候，加上来回切换分支，容易混淆。
 2. 分支太多，所以会出现 git log 混乱的局面。具体来说，主要是 git-flow 使用`git merge --no-ff`来合并分支，在 git-flow 这样多个分支的环境下会让你的分支管理的 log 变得很难看。如下所示，左边是使用`–no-ff` 参数在多个分支下的问题。
 
-![git flow log](/img/git/gitflowlog.png)
+![git flow log](/img/git/gitflowlog.jpg)
 
 `--no-ff` no fast forward，merge不要把这两个分支的commit以前置合并的方式，而是留下一个merge的commit。
 
@@ -52,8 +52,21 @@ date: 2023-04-11 17:34:24
 
 ## GitHub Flow
 
-Forking Flow
+Git Flow的简化版，专门作“持续发布”，如web的持续发布。
 
+![GitHub Flow](/img/git/githubflow.jpg)
+
+{% note primary %}
+只有 {% label info @main %} 分支，要求保证高质量，对开发者要求很高。
+1. 根据需求，从main拉出新分支，不区分功能或者补丁分支。
+2. 新分支开发完成后，或者待完善，就可以向 {% label info @main %} 发起一个 `pull request` 。
+3. 大家一起review代码，在这个过程中，还可以不断提交。
+4. `pull request` 被接受，合并进 {% label info @main %}，删除原来的分支，重新部署。
+{% endnote %}
+
+## GitHub Forking Flow
+
+{% note success %}
 1. 每个开发人员都把“官方库”的代码 fork 到自己的代码仓库中。
 2. 然后，开发人员在自己的代码仓库中做开发，想干啥干啥。
 3. 因此，开发人员的代码库中，需要配两个远程仓库，一个是自己的库，一个是官方库（用户的库用于提交代码改动，官方库用于同步代码）。
@@ -61,3 +74,25 @@ Forking Flow
 5. 这个功能分支被 push 到开发人员自己的代码仓库中。
 6. 然后，向“官方库”发起 pull request，并做 Code Review。
 7. 一旦通过，就向官方库进行合并。
+{% endnote %}
+
+## GitLab Flow
+
+GitLab Flow 最大的原则“上游优先” `upstream first`，只存在一个主分支 {% label primary @master %}，它是所有分支的上游，只有上游采纳代码变化，开发环境中。
+
+![GitLab Flow](/img/git/gitlabflow.jpg)
+
+对于版本发布，每一个稳定版本，都要从master拉出一个分支。
+
+![GitLab Flow](/img/git/gitlabstable.jpg)
+
+{% note success %}
+实际应用：
+1.  从{% label primary @master %}拉个人分支开发，`feature/name`
+2. 开发完成，在迭代结束前，合入{% label primary @master %}
+3. {% label primary @master %} 发布到 dev 环境
+4. 测试通过后，从 {% label primary @master %} 拉出发布分支 {% label info @release/version %}
+5. 有bug，在{% label info @release/version %}拉出分支修复，修复完成后再合入 {% label info @release/version %}
+6. 正式发布版本，如果有bug，同5的操作
+7. 等待发布版本稳定后，再将{% label info @release/version %}合入{% label primary @master %}
+{% endnote %}
