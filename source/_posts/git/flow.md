@@ -26,8 +26,8 @@ date: 2023-04-11 17:34:24
 - {% label info @Master %} 用于发布环境，上面的每一次commit都是可以发布的。
 - {% label success @Feature %} 用于开发功能，对应开发环境。
 - {% label primary @Develop %} 用于集成测试环境；功能开发完成，就向 {% label primary @Develop %} 合并，合并完成后，删除功能分支。
-- {% label warning @Release %} 用于预发布环境；当 {% label primary @Develop %} 测试到达口语发布状态时，开出一个{% label warning @Release %}分支，然后做发布前的准备工作。为什么需要{% label warning @Release %}，因为开发可以继续向前，不会被发布限制commit。
-> 当 {% label warning @Release %} 达到口语上线的状态，需要把 {% label warning @Release %} 向 {% label info @Master %} 和 {% label primary @Develop %} 同时合并，确保代码的一致性，然后再删掉{% label warning @Release %}。
+- {% label warning @Release %} 用于预发布环境；当 {% label primary @Develop %} 测试到达可以发布状态时，开出一个{% label warning @Release %}分支，然后做发布前的准备工作。为什么需要{% label warning @Release %}，因为开发可以继续向前，不会被发布限制commit。
+> 当 {% label warning @Release %} 达到可以上线的状态，需要把 {% label warning @Release %} 向 {% label info @Master %} 和 {% label primary @Develop %} 同时合并，确保代码的一致性，然后再删掉{% label warning @Release %}。
 
 - {% label danger @Hotfix %} 用于处理生产线上的 Bug-fix，每个线上 Bug-fix 都需要开一个{% label danger @Hotfix %}，完成后，向 {% label info @Master %} 和 {% label primary @Develop %} 合并，然后删除 {% label danger @Hotfix %}。
 
