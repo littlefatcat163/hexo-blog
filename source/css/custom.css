@@ -65,7 +65,7 @@ figure.highlight::before {
 }
 
 .the-dialogue .sender::after {
-    background: url(/blog/img/Garen.jpg) no-repeat center/100%;
+    background: url(/blog/img/xinzhizhu.jpg) no-repeat center/100%;
     left: -50px;
 }
 
@@ -79,6 +79,6 @@ figure.highlight::before {
 }
 
 .the-dialogue .responder::after {
-    background: url(/blog/img/Yasuo.jpg) no-repeat center/100%;
+    background: url(/blog/img/fengjian.jpg) no-repeat center/100%;
     right: -52px;
 }
