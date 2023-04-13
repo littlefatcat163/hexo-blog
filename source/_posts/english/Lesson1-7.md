@@ -10,7 +10,7 @@ date: 2023-04-13 20:05:10
 
 <article class="the-dialogue">
 	<header>
-    	<h2>What color is Anna's hat??</h2>
+    	<h2>What color is Anna's hat?</h2>
     </header>
     <p class="responder" title="Louise">What color's your new dress?</p>
     <p class="sender" title="Anna">It's green.</p>
@@ -18,9 +18,9 @@ date: 2023-04-13 20:05:10
     <p class="responder" title="Louise">Thank you.</p>
     <p class="sender" title="Anna">Look!<br>Here it is!</p>
     <p class="responder" title="Louise">That's a nice dress!<br>It's very smart.</p>
-    <p class="sender" title="Tim">My has's new, too.</p>
+    <p class="sender" title="Anna">My has's new, too.</p>
     <p class="responder" title="Louise">What colour is it?</p>
-    <p class="sender" title="Tim">It's the same colour.<br>It's green, too.</p>
+    <p class="sender" title="Anna">It's the same colour.<br>It's green, too.</p>
     <p class="responder" title="Louise">That is a lovely hat!</p>
 </article>
 
