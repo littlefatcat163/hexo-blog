@@ -105,5 +105,5 @@ How's work? 工作怎样？
 
 ## 21~22
 
-21. twenty-one
-22. twenty-two
+21: twenty-one
+22: twenty-two
