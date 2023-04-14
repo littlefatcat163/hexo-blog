@@ -32,7 +32,23 @@ git merge master
 
 三方merge，往前找到共同 parent-`C2`, 产生一个新地commit-`C7`，有两个parent，一个指向`C4`, 一个指向`C6`, 存在分叉
 
-![branch-eg]( /img/git/merge-branch.webp)
+![merge branch]( /img/git/merge-branch.webp)
+
+### merge --no-ff
+
+```sh
+git checkout main
+git merge develop
+```
+默认情况下， `merge` 使用 fast-forward，会直接将 `main` 指向 `develop`
+![merge fast farward](/img/git/merge-ff.png)
+
+```sh
+git checkout main
+git merge develop --no-ff
+```
+![merge no ff](/img/git/merge-no-ff.png)
+使用`--no-ff`，在`main`上生成一个新的commit，为了保证版本的清晰，可以更好地追踪和回退调整。
 
 ### rebase branch
 {% note success %}
