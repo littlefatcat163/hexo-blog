@@ -13,6 +13,7 @@ mermaid: true
 > https://www.yiibai.com/git/git-quick-start.html
 > https://github.com/521xueweihan/git-tips
 > https://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html
+> https://www.bookstack.cn/read/git-tutorial/README.md
 
 ## config
 
