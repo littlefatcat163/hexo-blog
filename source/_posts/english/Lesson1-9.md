@@ -19,10 +19,10 @@ date: 2023-04-14 17:58:51
     <p class="responder" title="Mr. Richards">Those women are very hard-working.<br>What are their jobs ?</p>
     <p class="sender" title="Mr. Jackson">They're keyboard operators.</p>
     <p class="sender" title="Mr. Jackson">This is Michale Baker, and this is Jeremy Short.</p>
-    <p class="responder" title="Mr. Richards">How do you do ?</p>
+    <p class="responder" title="Mr. Richards">How do you do?</p>
     <p class="responder" title="Mr. Richards">They aren't very busy!<br>What are their jobs?</p>
     <p class="sender" title="Mr. Jackson">They're sales reps.<br>They're very lazy.</p>
-    <p class="responder" title="Mr. Richards">Who is this young man ?</p>
+    <p class="responder" title="Mr. Richards">Who is this young man?</p>
     <p class="sender" title="Mr. Jackson">This is Jim.<br>He's our office assistant.</p>
 </article>
 
