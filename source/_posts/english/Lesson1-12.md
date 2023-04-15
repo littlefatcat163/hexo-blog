@@ -64,7 +64,7 @@ They sat round the table and made this big decision. 他们围坐在会议卓旁
 
 ## number
 
-1,117 one thousand one hundred and seventeen
-1,420 one thousand four hundred and twenty
-1,925 one thousand nine hundred and twenty-five
-2,000 two thousand
+1,117: one thousand one hundred and seventeen
+1,420: one thousand four hundred and twenty
+1,925: one thousand nine hundred and twenty-five
+2,000: two thousand
