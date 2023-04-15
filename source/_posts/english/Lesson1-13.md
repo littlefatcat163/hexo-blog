@@ -10,7 +10,7 @@ date: 2023-04-15 13:29:37
 
 <article class="the-dialogue">
 	<header>
-    	<h2>WWhat colour is the electric cooker?</h2>
+    	<h2>What colour is the electric cooker?</h2>
     </header>
     <p class="responder" title="Woman">Mrs. Smith's kitchen is small.</p>
     <p class="responder" title="Woman">There is a refrigerator in the kitchen.<br>The refrigerator is white.<br>It's on the right.</p>
