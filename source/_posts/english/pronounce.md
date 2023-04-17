@@ -35,7 +35,7 @@ date: 2023-04-16 20:32:13
 - 前 么
 - 后 唔（粤）
 {% endnote %} |
-| n  | `/m/` {% note success %}
+| n  | `/n/` {% note success %}
 - 前 呢
 - 后 嗯
 {% endnote %} |
