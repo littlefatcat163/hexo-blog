@@ -9,6 +9,7 @@ date: 2023-04-16 20:32:13
 ---
 
 > https://www.bilibili.com/video/BV1K441147Mv/?spm_id_from=333.337.search-card.all.click
+> https://www.bilibili.com/video/BV1is411v7Br?p=1&vd_source=e553701227697469502e8bd5e9ca558c
 > https://www.zhihu.com/question/20408682
 > https://zhuanlan.zhihu.com/p/204921564
 
@@ -111,24 +112,117 @@ how
 `/i:/` `/ə:/` `/u:/` `/a:/` `/ɔ:/`
 
 ### /i:/ `易`
-- bee `[biː]` 蜜蜂
-- see `[siː]` 看见
+- ee
+{% note success %}
+see bee sweet sweep sheep
+sleep green
+{% endnote %}
+
+- ea
+{% note success %}
+meat leaf sea pea teach
+eat clean
+{% endnote %}
+
+- e {% label success @一般出现在词尾 %}
+{% note success %}
+me be she he we evening
+{% endnote %}
 
 ### /ə:/ `儿`
-- shirt `[ʃə:t]` 衬衫
-- nurse `[nə:s]` 护士；保姆；
+- er
+{% note success %}
+her serve term
+{% endnote %}
+
+- ir
+{% note success %}
+bird girl shirt first dirty skirt
+{% endnote %}
+
+- ur
+{% note success %}
+nurse Thursday turtle purple curtain
+{% endnote %}
+
+- ear
+{% note success %}
+early learn
+{% endnote %}
+
+- or
+{% note success %}
+word work world
+{% endnote %}
 
 ### /u:/ `雾`
-- moon `[mu:n]` 月球
-- room `[ruːm]` 房间；空间；
+- o
+{% note success %}
+do who whose
+{% endnote %}
+
+- oo
+{% note success %}
+food moon too room
+{% endnote %}
+
+- ui
+{% note success %}
+fruit juice
+{% endnote %}
+
+- u
+{% note success %}
+ruler rude
+{% endnote %}
+
 
 ### /a:/ `啊`
-- ask `[a:sk]` 询问
-- far `[fa:r]` 远的
+- a
+{% note success %}
+grass glass class plant dance fast father last
+{% endnote %}
+
+- ar
+{% note success %}
+car star arm March garden dark scarf
+{% endnote %}
+
+- au
+{% note success %}
+laugh aunt
+{% endnote %}
+
+- ear
+{% note success %}
+heart
+{% endnote %}
 
 ### /ɔ:/ `哦`
-- door `[dɔ:r]` 门
-- short `[ʃɔ:t]` 短的
+- a
+{% note success %}
+water
+{% endnote %}
+
+- aw
+{% note success %}
+draw strawberry
+{% endnote %}
+
+- al
+{% note success %}
+ball wall
+{% endnote %}
+
+- or
+{% note success %}
+horse corn fork or short
+{% endnote %}
+
+- oor
+{% note success %}
+floor door
+{% endnote %}
 
 ## 短元音
 `/i/` `/ə/` `/ɔ/` `/u/` `/ʌ/` `/e/` `/æ/`
@@ -166,36 +260,141 @@ how
 `/eɪ/` `/aɪ/` `/ɔɪ/` `/ɪə/` `/eə/` `/ʊə/` `/əʊ/` `/aʊ/`
 
 ### /eɪ/ `A`
-- say `[sei]` 说
-- delay `[diˈlei]` 延迟
+- a
+{% note success %}
+cake make name game snake gate lazy
+{% endnote %}
+
+- ai
+{% note success %}
+rain train wait
+{% endnote %}
+
+- ay
+{% note success %}
+day May play today way
+{% endnote %}
 
 ### /aɪ/ `I`
-- ice `[ais]` 冰；雪糕；
-- side `[said]` 面；边；
+- i
+{% note success %}
+kite bike nice tiger write knife
+{% endnote %}
+
+- y
+{% note success %}
+by cry fly my sky try why
+{% endnote %}
+
+- ie
+{% note success %}
+tie pie
+{% endnote %}
+
+- uy
+{% note success %}
+buy
+{% endnote %}
 
 ### /ɔɪ/ `奥义`
-- oil `[ɔil]` 油；石油；
-- noise `[nɔɪz]` 噪音；嘈杂声；
+- oi
+{% note success %}
+oil boil coin toilet
+{% endnote %}
+
+- oy
+{% note success %}
+boy toy
+{% endnote %}
 
 ### /ɪə/ `一呃`
-- fear `[fɪər]` 害怕；可能性；
-- dear `[dɪər]` 亲爱的
+- ear
+{% note success %}
+ear hear tear
+{% endnote %}
+
+- eer
+{% note success %}
+deer beer
+{% endnote %}
 
 ### /eə/ `哎呃`
-- bear `[bɛə]` 熊
-- wear `[wɛə]` 穿着
+- air
+{% note success %}
+hair chair pair
+{% endnote %}
+
+- ear
+{% note success %}
+pear bear wear
+{% endnote %}
 
 ### /ʊə/ `屋呃`
-- sure `[ʃʊər]` 确信的；确实的；
-- pure `[pjʊər]` 纯的；单纯的；
+- oor
+{% note success %}
+poor
+{% endnote %}
+
+- our
+{% note success %}
+tour
+{% endnote %}
+
+- ure
+{% note success %}
+sure pure
+{% endnote %}
 
 ### /əʊ/ `呃屋`
-- flow `[fləu]` 流
-- glow `[ɡləʊ]` 发光；灼热；
+- o
+{% note success %}
+nose rose poen over
+{% endnote %}
+
+- oa
+{% note success %}
+boat coat soap goat
+{% endnote %}
+
+- ow
+{% note success %}
+show window snow bowl
+{% endnote %}
 
 ### /aʊ/ `啊屋`
-- cow `[kaʊ]` 奶牛；乳牛；
-- hour `[aʊər]` 小时；钟头；
+- au
+{% note success %}
+house mouse mouth trouse
+{% endnote %}
+
+- ow
+{% note success %}
+flower cow how now down
+{% endnote %}
+
+## 音节
+
+|  重读闭音节   | 重读开音节  |
+|  ----  | ----  |
+| rap  | rape |
+| bat  | bate |
+| rop  | rope |
+| kit  | kite |
+| bus  | abuse |
+| egg  | be |
+
+### 重读开音节
+- 元音 + 辅音 + e（不发音）
+- 辅音 + 元音
+{% note warning %}
+元音发发音名称音，字母本身的读音
+{% endnote %}
+
+### 重读闭音节
+- 元音 + 辅音
+{% note warning %}
+元音发短元音
+{% endnote %}
 
 ## 清辅音浊辅音
 
@@ -207,4 +406,108 @@ how
 {% note warning %}
 11个浊辅音
 `/b/` `/d/` `/g/` `/v/` `/ð/` `/z/` `/ʒ/` `/dz/` `/dʒ/` `/dr/` `/r/`
+{% endnote %}
+
+{% note danger %}
+- `/θ/` 双齿咬住舌头，发 `/s/`
+- `/ð/` 双齿咬住舌头，发 `/z/`
+{% endnote %}
+
+### /dʒ/ `日` 浊
+- g
+{% note success %}
+ginger giraffe
+{% endnote %}
+
+- j
+{% note success %}
+jump job jam
+{% endnote %}
+
+- ge
+{% note success %}
+orange cabbage cage
+{% endnote %}
+
+### /tʃ/ `吃` 清
+- ch
+{% note success %}
+teacher peach cherry chair
+{% endnote %}
+
+- tch
+{% note success %}
+watch match
+{% endnote %}
+
+### /ʃ/ `石` 清
+- s
+{% note success %}
+sugar sure
+{% endnote %}
+
+- sh
+{% note success %}
+ship sheep wash cash shop she
+{% endnote %}
+
+### /dz/ `日` 浊
+- ds
+{% note success %}
+seeds woods firends birds beds
+{% endnote %}
+
+- des
+{% note success %}
+rides
+{% endnote %}
+
+### /ts/ `次` 清
+- ts
+{% note success %}
+seats goats coats cats pets eats
+{% endnote %}
+
+- tes
+{% note success %}
+gates kites dastes tastes
+{% endnote %}
+
+
+### /ʒ/ `日` 浊
+- s
+{% note success %}
+television usually
+`Asia measure garage`
+`an unusual collision`
+`my pleasure`
+{% endnote %}
+
+### /θ/ 双齿咬住舌头，发 `/s/`
+- th
+{% note success %}
+three thin third teeth mouth
+{% endnote %}
+
+### /ð/ 双齿咬住舌头，发 `/z/`
+- th
+{% note success %}
+father mother brother clohes weath
+{% endnote %}
+
+### /ŋ/
+- n
+{% note success %}
+ink bank tank finger
+{% endnote %}
+
+- ng
+{% note success %}
+sing hang song reading running
+{% endnote %}
+
+### /j/ 野
+- y
+{% note success %}
+yo-yo yogurt yard yes you your
 {% endnote %}
