@@ -24,7 +24,7 @@ date: 2023-04-18 21:22:27
     <p class="responder" title="Pamela">Thank you, Bob.</p>
     <p class="responder" title="Pamela">Bob!</p>
     <p class="sender" title="Bob">Yes?<br>What's the matter?</p>
-    <p class="responder" title="Pamelas">I can't type this letter.<br>I can't read it!<br>The boos's handwriting is terrible!</p>
+    <p class="responder" title="Pamela">I can't type this letter.<br>I can't read it!<br>The boos's handwriting is terrible!</p>
 </article>
 
 ## words and expressions

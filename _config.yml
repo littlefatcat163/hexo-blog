@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Blog
+subtitle: littlefatcat's hexo blog
+description: personal learn and note
 keywords:
 author: littlefatcat
 language: en
