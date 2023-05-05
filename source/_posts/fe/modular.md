@@ -1,8 +1,13 @@
 ---
 title: javascript模块化
 excerpt: nodejs和浏览器 javascript modular, commonjs和commonjs2区别
-categories: [front-end, back-end]
-tags: [develop]
+categories: 
+    - [front-end]
+    - [back-end]
+tags: 
+    - develop
+    - nodejs
+    - javascript
 index_img: /img/fe/modular.jpg
 # banner_img: /img/hexo.webp
 date: 2023-05-05 20:53:34
