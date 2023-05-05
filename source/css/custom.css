@@ -3,12 +3,12 @@
     --the-dialogue-sender: #f0f0f0;
     --the-dialogue-responder: #d7ecff;
 }
-figure.highlight {
+.code-wrapper {
     background: var(--highlight-top-head);
     border-radius: 8px;
     padding-top: 25px;
 }
-figure.highlight::before {
+.code-wrapper::before {
     background: #fc625d;
     border-radius: 50%;
     box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;

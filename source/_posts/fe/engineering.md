@@ -1,7 +1,7 @@
 ---
 title: 前端工程化
 excerpt: 前端开发流、技术选型、代码规范、构建发布等
-categories: [前端]
+categories: [front-end]
 tags: [develop]
 index_img: /img/fe/webpack.jpg
 # banner_img: /img/hexo.webp
