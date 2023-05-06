@@ -12,6 +12,7 @@ date: 2023-04-15 12:02:16
 > - https://juejin.cn/post/6844904072856731662
 > - https://link.juejin.cn/?target=https%3A%2F%2Fzeropointdevelopment.com%2Fhow-to-get-https-working-in-windows-10-localhost-dev-environment%2F
 > - https://link.juejin.cn/?target=https%3A%2F%2Fmedium.com%2F%40tbusser%2Fcreating-a-browser-trusted-self-signed-ssl-certificate-2709ce43fd15
+> - [acme.sh自动更新HTTPS证书](https://zhuanlan.zhihu.com/p/347064501)
 
 ## 文件后缀对应的文件类型
 

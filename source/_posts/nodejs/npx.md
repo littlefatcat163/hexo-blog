@@ -1,10 +1,14 @@
 ---
 title: npx
 excerpt: npm从5.2开始，增加了npx
-categories: [workflow]
-tags: [develop, nodejs]
-index_img: /img/develop/npx.jpg
-banner_img: /img/develop/nodejs.jpg
+categories: 
+  - [front-end]
+  - [back-end]
+tags: 
+  - develop
+  - nodejs
+index_img: /img/nodejs/npx.jpg
+banner_img: /img/nodejs/nodejs.jpg
 date: 2023-04-30 10:28:42
 ---
 > https://www.ruanyifeng.com/blog/2019/02/npx.html
