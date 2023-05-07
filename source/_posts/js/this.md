@@ -1,5 +1,5 @@
 ---
-title: javascript this
+title: this
 excerpt: this 对象自动生成一个内部对象，只能在对象内部使用，随着函数的调用，this将随着动态指向调用的对象。
 categories:
   - [front-end]
