@@ -19,7 +19,7 @@ mermaid: true
 
 ```sh
 # 查看当前的设置
-git config -list
+git config --list
 
 # 当前所在目录配置
 git config --local --list
