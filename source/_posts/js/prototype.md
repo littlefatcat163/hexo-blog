@@ -43,3 +43,5 @@ js中除了基础数据 `string` `number` `boolean` `undefined` `symobol` `null`
 - `__proto__`、`constructor` 对象拥有
 - `prototype`函数独有
 - js函数是对象的一种，所以函数也有 `__proto__`、`constructor`
+
+![原型链](/img/js/proto.jpg)
