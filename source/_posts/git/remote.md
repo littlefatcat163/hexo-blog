@@ -23,6 +23,12 @@ date: 2023-04-10 01:23:35
 test scene
 ![branch-eg]( /img/git/branch-eg.webp)
 
+### branch remote
+```sh
+# local create dev branch and mapping remote orign/dev branch
+git checkout -b dev origin/dev
+```
+
 ### merge
 
 ```sh
