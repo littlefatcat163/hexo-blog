@@ -32,3 +32,42 @@ m`i` / r`a` / c`le`
 ## 辅音
 ![辅音](/img/english/consonant.jpg)
 ![练习](/img/english/demo.jpg)
+
+## 元元组合
+### a
+常见的组合有 `ai` `au`
+![a组合](/img/english/a.jpg)
+
+### e
+![e组合](/img/english/e.jpg)
+
+### i
+常见组合 `ia` `ie` `io`
+![i组合](/img/english/i.jpg)
+
+### o
+![o组合](/img/english/o.jpg)
+
+### u
+常见组合 `ua` `ue` `ui`
+![u组合](/img/english/u.jpg)
+
+## 辅音组合
+### qu /qw/
+![qu](/img/english/qu.jpg)
+
+### gu /g/
+![gu1](/img/english/gu1.jpg)
+![gu2](/img/english/gu2.jpg)
+
+### r
+![r1](/img/english/r1.jpg)
+![r2](/img/english/r2.jpg)
+
+### y
+- y后面没有元音，它自己就是元音 hap`py` 、 can`dy` 、 sk`y`
+- y在词首是辅音，y在词尾是元音 `yummy` 
+
+berry => b`e`r/r`y`
+buyer => b`uy`/`er`
+royal => r`oy`/`a`l
