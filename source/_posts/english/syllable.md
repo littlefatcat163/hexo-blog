@@ -409,9 +409,53 @@ die lie pie tie
 {% endnote %}
 rude juice lube
 
-## y 在词尾发元音
+## y 在词尾发元音 `/ai/` `/i/`
 {% note warning %}
 单词没有其他元音，发 `/ai/`, 有发 `/i/`
 {% endnote %}
 - `/ai/` my sky try dry fly cry
 - `/i/` baby candy city lady funny Landy
+
+## r组合，弱读
+
+- `ar` `/a:/` 类似汉语拼音 a
+- `or` `/ɔː/` 类似汉语拼音 o
+- `er ir ur` `/ɜː/` 类似汉语拼音 e
+
+### ar /a:/ /ɔː/
+{% note info %}
+`w`后面的`ar`发 `/ɔː/`
+{% endnote %}
+- `/a:/`
+  - `-ard` hard card pard
+  - `-arm` farm harm alarm
+  - `-ark` dark park shark
+- `/ɔː/`
+  - war warn warm
+
+### or /ɔː/ /ɜː/
+{% note info %}
+`w`后面的`or`发 `/ɜː/`
+{% endnote %}
+- `/ɔ:/`
+  - pork form short sort lord north
+- `/ɜː/`
+  - word work world
+
+### er = ir = ur `/ɜː/`
+- `-er` her nerd berth
+- `-ir` sir bird firm
+- `-ur` fur blur curse
+
+### 元音字母 + re
+- `-are` `/eə/` care dare fare
+- `-ere` `/ɪə/` here mere sphere
+- `-ire` `/aɪə/` fire hire tire
+- `-ore` `/ɔːr/` more bore core
+- `-ure` `/jʊə(r)/` cure pure sure
+
+- `-ear` `/ɪə(r)/` dear hear near
+- `-eer` `/ɪə(r)/` beer deer peer
+- `-air` `/eə(r)/` hair pair chair
+- `-oor` `/ɔː(r)/` door poor moor
+- `-our` `/ɔː(r)/` four tour pour
