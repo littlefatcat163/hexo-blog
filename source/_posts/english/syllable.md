@@ -382,3 +382,29 @@ die lie pie tie
 ### ow /əʊ/ /aʊ/ 两种发音，特殊
 - `/əʊ/` blow show snow
 - `/aʊ/` how wow brown
+
+## u /ʌ/ 阿 疼痛元音
+
+### 元辅组合
+- `-ug` bug hug rug
+- `-un` sun bun run
+- `-ut` nut hut cut
+- `-ub` tub cub pub
+- `-ud` mud bud dud
+- `-um` gum hum mum
+- `-up` cup pup tup
+- `-uck` luck truck duck
+- `-us` bus pus plus
+
+### u-e /juː/
+- `-ube` cube tube
+- `-ute` cute mute
+- `-ue` due sue
+- `-ui` suit suitcase
+
+### u-e /u:/
+{% note success %}
+`r` `j` `l` 在这三个字母后的 u-e 发 /u:/
+谐音记忆：溶解了
+{% endnote %}
+rude juice lube
