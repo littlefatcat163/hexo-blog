@@ -235,6 +235,31 @@ y出现在词尾，发元音 `/i/` `/ai/`
 - `/ks/` box fox
 - `/gz/` {% label success @x前后有元音夹着 %} exam example
 
+## 常见的词尾组合
+
+### mb mn bt
+{% note danger %}
+出现在词尾， 其中一个字母不发音
+{% endnote %}
+
+- `mb` {% label danger @b不发音 %} lamb comb climb
+- `mn` {% label danger @n不发音 %} autumn column hymn
+- `bt` {% label danger @b不发音 %} doubt debt
+
+### 词尾组合
+
+- `-sure` `/ʒə/` 惹 masure pleasure treasure
+- `-ture` `/tʃə/` 扯 picture nature future
+- `-tion` `/ʃn/` 婶 mention station vacation
+- `-sion` `/ʒn/` 忍 vision television
+- `-cian` `/ʃn/` 婶 musician magician beautician
+- `-ous` `/əs/` 饿死 famous dangerous
+- `-cious` `/ʃəs/` 射死 dilicious vicious
+- `-able` `/eIbl/` capable suitable available
+- `-ful` `/fl/` helpful careful beautiful
+- `-nk` `/ŋk/` {% label warning @后鼻音，需要张大嘴巴，赛车加油声  %} bank think blink
+- `-ng` `/ŋ/` king sing song
+
 ## 元音组合
 ### a
 常见的组合有 `ai` `au`
