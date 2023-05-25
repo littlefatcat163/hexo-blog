@@ -260,7 +260,64 @@ y出现在词尾，发元音 `/i/` `/ai/`
 - `-nk` `/ŋk/` {% label warning @后鼻音，需要张大嘴巴，赛车加油声  %} bank think blink
 - `-ng` `/ŋ/` king sing song
 
-## 元音组合
+## 元音
+
+### 元辅组合
+{% note success %}
+元音字母 + 辅音字母  = 闭音节 （发短元音）
+如下面的 `-ab` 读 `/æb/`
+{% endnote %}
+
+### 元音组合
+{% note info %}
+元音组合发长音，主要以前面的元音发音，后面的元音不发音。
+如下面的 `a-e` 读 `/eI/`
+{% endnote %}
+
+## A /æ/ 大嘴巴
+
+### 元辅短音 /æ/
+
+- `-ab` cab tab crab
+- `-ack` back pack black
+- `-ad` dad bad sad
+- `-ag` bag tag wag
+- `-am` jam ram ham
+- `-an` fan can man
+- `-ap` map cap tap
+- `-as` gas task last
+- `-at` cat sat bat
+- `-ax` tax fax relax
+
+### a-e /eI/
+- `-ade` fade blade grade
+- `-ake` cake make bake
+- `-ale` tale pale sale
+- `-ame` name game same
+- `-ane` cane lane sane
+
+### ai /eI/
+- `-ait` bait wait trait
+- `-aint` faint paint saint
+- `-ain` rain pain
+- `-aim` aim maim claim
+- `-ail` mail sail tail
+- `-aid` maid paid laid
+
+### ay /eI/
+bay day may clay pay play say way
+
+## e /e/ 微笑元音
+### 元辅短音 /e/
+- `-ed` red bed wed
+- `-en` pen hen ten
+- `-et` jet wet net
+- `-esk/est` desk quest
+- `-eft` left reft weft
+- `-ell` tell sell bell
+- `-ep` bep hep zep
+- `-em` gem hem them
+
 ### a
 常见的组合有 `ai` `au`
 ![a组合](/img/english/a.jpg)
