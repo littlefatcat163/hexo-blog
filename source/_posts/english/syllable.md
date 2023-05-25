@@ -408,3 +408,10 @@ die lie pie tie
 谐音记忆：溶解了
 {% endnote %}
 rude juice lube
+
+## y 在词尾发元音
+{% note warning %}
+单词没有其他元音，发 `/ai/`, 有发 `/i/`
+{% endnote %}
+- `/ai/` my sky try dry fly cry
+- `/i/` baby candy city lady funny Landy
