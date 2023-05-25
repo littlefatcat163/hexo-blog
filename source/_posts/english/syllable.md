@@ -350,3 +350,35 @@ bay day may clay pay play say way
 ### ie /ai/
 
 die lie pie tie
+
+## o /ɒ/ 偶
+
+### 元辅组合
+- `-og` dog log jog
+- `-ot` pot hot dot
+- `-ox` fox pox box
+- `-ock` lock dock sock
+- `-oss` boss loss toss
+- `-od` god nod pod
+- `-oft` soft loft toft
+- `-oll` toll doll poll
+
+### o-e /əʊ/ 鸥
+- `-oke` coke joke broke
+- `-ole` hole mole stole
+- `-ome` home Rome mome
+- `-one` bone tone stone
+- `-ope` hope lope rope
+- `-ote` note vote quote
+
+### ove /əʊ/ /ʌ/ 常见词，不符合规则
+- `/əʊ/` hove cove stove
+- `/ʌ/` love glove
+
+### oe | oa /əʊ/
+- `-oe` doe Joe toe
+- `-oa` boat coat goat
+
+### ow /əʊ/ /aʊ/ 两种发音，特殊
+- `/əʊ/` blow show snow
+- `/aʊ/` how wow brown
