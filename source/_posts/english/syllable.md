@@ -132,7 +132,7 @@ wh 遇到 o，发 `/h/`, 其余发 `/w/`
   2. w不发音, `who` `whose` `whole`
 
 
-### 辅音串
+## 辅音串
 {% note info %}
 为了更好地记住单词，两个字母都发音，2个音节
 {% endnote %}
@@ -163,6 +163,77 @@ wh 遇到 o，发 `/h/`, 其余发 `/w/`
 - `dw` dwell dwarf
 - `qu` quick queen question
 - `-gu-` language penguin
+
+## 辅音浊化
+
+- s + （声带）震动辅音（浊辅音） 不浊化
+- s + 不震动辅音（清辅音） 浊化
+
+### S 串
+
+- `sc` c发 `/g/`, scan scope
+- `sk` k发 `/g/`, sky skirt skip
+- `scr` cr发 `/gr/` screen scratch scram
+- `sp` p发 `/b/` spy space spider
+- `spl` pl发 `/bl/` splash splat split
+- `spr` pr发 `/br/` spray sprint spring
+- `st` t发 `/d/` stay star start
+- `str` st发 `/dr/` straw strong strain
+- `squ` qu发 `/gw/` square squeeze squash
+
+## 辅音变声
+{% note warning %}
+谐音记忆
+`C2` 成
+`G2` 功
+`L2` 聊
+`R2` 人
+`S2` 生
+`Y3` 游
+`X2` 戏
+{% endnote %}
+### c 2个发音
+{% note info %}
+c在 `i` `e` `y` __(爱意外)__ 前发 `/s/`，其他发 `/k/`
+{% endnote %}
+- `/k/` cat coat canday
+- `/s/` city celery cycle
+
+### g 2个发音
+{% note info %}
+g在 `i` `e` `y` __(爱意外)__ 前发 `/dʒ/`，其他发 `/g/`
+{% endnote %}
+- `/g/` goat game gun
+- `/dʒ/` 橘 giraffe gentle gym
+
+### l 2个发音
+- `/l/` {% label primary @在前面发 了 %} like long 
+- `/l/` {% label primary @在后面发 二哦 舌头向上 %} little apple
+
+### r 2个发音
+- `/r/` {% label success @词首发 裸 %} red rain
+- `/ə/` {% label success @词尾发 儿 %} hear
+
+### s 2个发音
+{% note info %}
+s被两个元音夹在中间，发 `/z/`
+{% endnote %}
+- `/s/` six sit
+- `/z/` rose close
+
+### y 3个发音
+{% note info %}
+y出现在词尾，发元音 `/i/` `/ai/`
+词中有其他元音， 发 `/i/`
+词中没有其他元音，发 `/ai/`
+{% endnote %}
+- `/j/` 鸭 yes yoyo
+- `/i/` happy candy
+- `/ai/` fly cry
+
+### x 2个发音
+- `/ks/` box fox
+- `/gz/` {% label success @x前后有元音夹着 %} exam example
 
 ## 元音组合
 ### a
