@@ -273,6 +273,10 @@ y出现在词尾，发元音 `/i/` `/ai/`
 元音组合发长音，主要以前面的元音发音，后面的元音不发音。
 如下面的 `a-e` 读 `/eI/`
 {% endnote %}
+{% note warning %}
+- 长元音发音嘴巴紧
+- 短元音发音嘴巴松
+{% endnote %}
 
 ## A /æ/ 大嘴巴
 
@@ -459,3 +463,28 @@ rude juice lube
 - `-air` `/eə(r)/` hair pair chair
 - `-oor` `/ɔː(r)/` door poor moor
 - `-our` `/ɔː(r)/` four tour pour
+
+## 特殊元音组合
+
+- `oi oy` `/ɔɪ/`
+  - `-oi` oil boil soil
+  - `-oy` boy toy joy
+- `oo`
+  - `/u:/` moon room oolong
+  - `/u/` look cook book wool wood woof good foot stood
+  {% note success %}
+  规则：`oo` 在k前，w后，还有 
+  good 好 
+  foot 脚
+  stood 站
+  读 短音 `/u/`
+  {% endnote %}
+- `eu ew` `/juː/`
+  - `eu` euro Europe
+  - `ew` few new dew
+- `ou ow` `/aʊ/`
+  - `ou` house shout mouse
+  - `ow` now how cow
+- `ou ow` `/əʊ/`
+  - `ou` dough
+  - `ow` low bow snow
