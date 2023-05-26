@@ -488,3 +488,20 @@ rude juice lube
 - `ou ow` `/əʊ/`
   - `ou` dough
   - `ow` low bow snow
+
+## 开闭音节
+- 元音字母发短音
+- 元音组合发长音
+
+### 闭音节
+hid got
+{% note success %}
+一个元音，且后面有辅音字母限制，形成闭音节
+{% endnote %}
+
+### 开音节 长音+重读
+- 元音组合相对开音节 -> hide gote
+- 开音节 -> hi go
+
+## 弱读
+`be`lieve `/bI/` => `/bə/`
