@@ -1,6 +1,6 @@
 ---
 title: 音节
-excerpt: （长）单词阅读，记忆方法
+excerpt: （长）单词阅读，自然拼读
 categories: 
   - [English]
 tags: 
@@ -505,3 +505,55 @@ hid got
 
 ## 弱读
 `be`lieve `/bI/` => `/bə/`
+
+## 词尾 语法词
+{% label primary @s %}
+{% label info @ed %}
+{% label success @ing %}
+
+### 词尾e不发音
+- `去 e + ed` bake -> baked
+- `去 e + ing` bake -> baking
+
+### 闭音节双写 + ed / ing
+- stop -> stopping
+- stop -> stopped
+
+### 末尾发音接近s + es
+- bus -> buses
+- box -> boxes
+- rush -> rushes
+- catch -> catches
+
+### y 改 i + es
+{% note danger %}
+- y 是单独的元音时，需要改 i + es
+  - candy -> candies
+  - fly -> flies
+- y 是组合元音`ay` `ey` `oy` `uy`，直接加 s
+  - day -> days
+{% endnote %}
+
+### f fe 改 ves
+{% note info %}
+末尾发音不震动声带，为了表达清晰
+{% endnote %}
+- life -> lives
+- knife -> knives
+- self -> selves
+
+### 语法词尾发音规则
+
+- hope {% label warning @词尾e不发音 %} + s -> hopes {% label success @词尾发 /s/ 声带也不震动，保持改前后发音一样 %}
+- bag {% label warning @词尾g声带震动 %} + s -> bags {% label success @词尾发 /z/ 也是需要震动 %}
+- face {% label warning @词尾太接近s %} + s -> faces {% label success @词尾发 /siz/ 需要加多个音节来清晰表达 %}
+- cat + s -> cats `/ts/`
+- dad + s -> dads `/dz/`
+
+### -ed
+- look + ed -> looked `/kt/` 跟着末尾`k`清辅念`t`，保持清
+- play + ed -> played `/d/` 跟着末尾一起震动，保持浊
+- want + ed -> wanted `/tid/` 末尾发音太接近，需要加音节
+- end + ed -> ended `/did/`
+- hope + ed -> hoped `/pt/` 末尾e不发音
+- mute + ed -> muted `/tie/` 末尾e发音
