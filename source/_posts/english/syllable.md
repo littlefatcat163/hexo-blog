@@ -111,8 +111,8 @@ quick queen
 
 - gu
   1. 出现在词首有元音 `/g/` {% label primary @guide %} {% label primary @guess %}
-  2. 出现在词中，没有元音音节，`u`要发元音 {% label primary @August %} {% label primary @regular %}
-  3. 出现在词中，有元音 `/gw/`  {% label primary @penguin %} {% label primary @language %}
+  2. 出现在词中，`gu`所在的音节没有元音，`u`要发元音 {% label primary @August %} {% label primary @regular %}
+  3. 出现在词中，`gu`所在的音节有元音 `/gw/`  {% label primary @penguin %} {% label primary @language %}
 
 - wr- {% label danger @w不发音 %} `/r/`
 {% note success %}
@@ -146,7 +146,7 @@ wh 遇到 o，发 `/h/`, 其余发 `/w/`
 - `sl` sleep slap slide slice
 
 ### R 串
-- `br` blead brave bright bridge
+- `br` bread brave bright bridge
 - `cr` cry cross cream crayon
 - `fr` fry free from frog
 - `gr` grass grade green ground
@@ -178,7 +178,7 @@ wh 遇到 o，发 `/h/`, 其余发 `/w/`
 - `spl` pl发 `/bl/` splash splat split
 - `spr` pr发 `/br/` spray sprint spring
 - `st` t发 `/d/` stay star start
-- `str` st发 `/dr/` straw strong strain
+- `str` tr发 `/dr/` straw strong strain
 - `squ` qu发 `/gw/` square squeeze squash
 
 ## 辅音变声
@@ -196,7 +196,7 @@ wh 遇到 o，发 `/h/`, 其余发 `/w/`
 {% note info %}
 c在 `i` `e` `y` __(爱意外)__ 前发 `/s/`，其他发 `/k/`
 {% endnote %}
-- `/k/` cat coat canday
+- `/k/` cat coat candy
 - `/s/` city celery cycle
 
 ### g 2个发音
@@ -254,7 +254,7 @@ y出现在词尾，发元音 `/i/` `/ai/`
 - `-sion` `/ʒn/` 忍 vision television
 - `-cian` `/ʃn/` 婶 musician magician beautician
 - `-ous` `/əs/` 饿死 famous dangerous
-- `-cious` `/ʃəs/` 射死 dilicious vicious
+- `-cious` `/ʃəs/` 射死 delicious vicious
 - `-able` `/eIbl/` capable suitable available
 - `-ful` `/fl/` helpful careful beautiful
 - `-nk` `/ŋk/` {% label warning @后鼻音，需要张大嘴巴，赛车加油声  %} bank think blink
@@ -325,7 +325,7 @@ bay day may clay pay play say way
 ### 元音组合 `/i:/`
 - `e-e` 少见 eve clepe Pete
 - `ee` bee see fee feel feet feed seed need reed
-- `ea` beach bean beat cheap cheat dream block please clean
+- `ea` beach bean beat cheap cheat dream please clean
 
 ## i /I/ 军训报数 1
 
@@ -556,4 +556,4 @@ hid got
 - want + ed -> wanted `/tid/` 末尾发音太接近，需要加音节
 - end + ed -> ended `/did/`
 - hope + ed -> hoped `/pt/` 末尾e不发音
-- mute + ed -> muted `/tie/` 末尾e发音
+- mute + ed -> muted `/tid/` 末尾e发音
