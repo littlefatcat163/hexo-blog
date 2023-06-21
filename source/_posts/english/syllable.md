@@ -253,6 +253,7 @@ y出现在词尾，发元音 `/i/` `/ai/`
 - `-tion` `/ʃn/` 婶 mention station vacation
 - `-sion` `/ʒn/` 忍 vision television
 - `-cian` `/ʃn/` 婶 musician magician beautician
+- `-cial` `/ʃ(ə)l/` 手 financial special
 - `-ous` `/əs/` 饿死 famous dangerous
 - `-cious` `/ʃəs/` 射死 delicious vicious
 - `-able` `/eIbl/` capable suitable available
