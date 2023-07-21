@@ -99,10 +99,14 @@ git rebase -i HEAD~3
 ![rebase-commit](/img/git/rebase-commit.webp)
 
 ### cherry-pick
+{% note warning %}
+常用于分支开发完毕，准备提pr merge 到 main的时候，相当于手动整理commit
+{% endnote %}
 
 一次转移一次commit，会有新的commitid产生
 - `git cherry-pick <commit...>` 将commit移植到当前branch
 - `git cherry-pick <branch1>` 将branch1上最近的一次commit，转移到当前branch
+- `git cherry-pick commit0..commit100` 将commit0到100之间commit转移到当前branch，不包含commit0，包含commit100
 
 ### remote
 
