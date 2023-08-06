@@ -101,13 +101,9 @@ Further paragraphs come after blank lines.
 {% endnote %}
 
 ### Footer
-1. 关闭 issue
+1. 关闭 issue， 具体请参考 git cz 提示面板
 ```
-# 关闭一个issue
-Closes #11
-
-# 关闭多个issue
-Closes #12, #13
+closes #11 fix #12
 ```
 
 2. 如果当前代码与上一个版本不兼容，则 __Footer__ 部分以 {% label danger @BREAKING CHANGE %} 开头，后面是对变动的描述，以及变动的理由和迁移方法。
