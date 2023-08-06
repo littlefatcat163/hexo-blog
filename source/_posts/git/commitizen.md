@@ -107,7 +107,6 @@ closes #11 fix #12
 ```
 
 2. 如果当前代码与上一个版本不兼容，则 __Footer__ 部分以 {% label danger @BREAKING CHANGE %} 开头，后面是对变动的描述，以及变动的理由和迁移方法。
-
 ```
 BREAKING CHANGE: isolate scope bindings definition has changed.
 
