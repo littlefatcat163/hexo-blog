@@ -1,0 +1,52 @@
+const LOGGED_TIME_KEY = 'loggedTime';
+
+function getLoggedTime() {
+    return parseInt(sessionStorage.getItem(LOGGED_TIME_KEY) || 0);
+}
+function allowLogin() {
+    return getLoggedTime() < 3;
+}
+function updateLoggedTime() {
+    const loggedTime = getLoggedTime();
+    sessionStorage.setItem(LOGGED_TIME_KEY, loggedTime + 1);
+}
+
+function updateFormInputStatus(disabled) {
+    const $form = document.getElementById('login');
+    const $input = $form.querySelector('input[type=text]');
+    if ($input.disabled === disabled) {
+        return;
+    }
+    $input.disabled = disabled;
+    $form.querySelector('input[type=password]').disabled = disabled;
+    $form.querySelector('button').disabled = disabled;
+}
+
+function testLogged() {
+    if (!allowLogin()) {
+        updateFormInputStatus(true);
+        return false;
+    }
+    updateFormInputStatus(false);
+    return true;
+}
+
+document.getElementById('signIn').onclick = function (e) {
+    e.preventDefault();
+    if (!testLogged()) {
+        return;
+    }
+    const formData = new FormData(document.getElementById('login'));
+    const username = formData.get('username');
+    const password = formData.get('password');
+    const token = '07bb53649d1a6a6ea66fa37d2e3584f5c30731b69e23f6e9ce2b9ca31b0935502f85a4410b5d256f37a61ab9d2c1b08ef71d217ede3929644f80e6e2329b99da';
+    updateLoggedTime();
+    testLogged();
+    if (CryptoJS.SHA512(`${username} - ${password}`).toString() !== token) {
+        return;
+    }
+    sessionStorage.setItem('token', token);
+    window.location.href = '/blog';
+}
+
+testLogged();
