@@ -45,8 +45,11 @@ document.getElementById('signIn').onclick = function (e) {
     if (CryptoJS.SHA512(`${username} - ${password}`).toString() !== token) {
         return;
     }
-    sessionStorage.setItem('token', token);
-    window.location.href = '/blog';
+    updateFormInputStatus(true);
+    setTimeout(() => {
+        sessionStorage.setItem('token', token);
+        window.location.href = '/blog';
+    }, Math.max(Math.min(Math.floor(Math.random() * 10), 4)) * 1000);
 }
 
 testLogged();
