@@ -3,13 +3,22 @@
     --the-dialogue-sender: #f0f0f0;
     --the-dialogue-responder: #d7ecff;
     --info-text-color: #409EFF;
-    --success-text-color: #E6A23C;
-    --warning-text-color: #67C23A;
+    --success-text-color: #67C23A;
+    --warning-text-color: #E6A23C;
     --danger-text-color: #F56C6C;
 }
 
 .info-text {
     color: var(--info-text-color);
+}
+.success-text {
+    color: var(--success-text-color);
+}
+.warning-text {
+    color: var(--warning-text-color);
+}
+.danger-text {
+    color: var(--danger-text-color);
 }
 
 .code-wrapper {
