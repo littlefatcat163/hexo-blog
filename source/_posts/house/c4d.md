@@ -15,4 +15,4 @@ date: 2023-09-02 15:33:57
 {% endnote %}
 
 c4d菜单栏 / 编辑 / 设置 / 视窗硬件 / 关闭 启动试图抖动
-![c4d-err](/img/house/c4d-err.png)
+![c4d-err](/img/house/c4d-err.jpg)
