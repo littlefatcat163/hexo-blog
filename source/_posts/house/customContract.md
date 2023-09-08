@@ -30,7 +30,7 @@ mermaid: true
 为了节约成本，商家建议选用<b class=warning-text>9mm</b>的薄背板，忽悠节约衣柜空间，实际上，背板太薄无法打钉，必须在内部开槽固定，并没有解决柜内面积，还导致柜体结构不够牢固，承重力不好，开槽后，板芯暴露，受潮容易变形，甚至发霉。<font class=warning-text>至少<b>9mm</b>的背板</font>，<font class=success-text>预算够的话可以上<b>18mm</b>，稳固性和环保性都要更好</font>。
 
 ### 二、封边方式
-
+> [详细查看](/blog/2023/09/09/house/banding/)
 {% note danger %}
 一定要问清楚是 EVA、PUR、激光封边？
 {% endnote %}
