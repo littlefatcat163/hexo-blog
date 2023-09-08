@@ -6,6 +6,12 @@
     --success-text-color: #67C23A;
     --warning-text-color: #E6A23C;
     --danger-text-color: #F56C6C;
+    --label-text-color: #fdfdfd;
+    --label-primary-bg-color: #8352db;
+    --label-info-bg-color: #3a8de4;
+    --label-success-bg-color: #85ce61;
+    --label-warning-bg-color: #ebb563;
+    --label-danger-bg-color: #f78989;
 }
 
 .info-text {
@@ -19,6 +25,27 @@
 }
 .danger-text {
     color: var(--danger-text-color);
+}
+
+.label-primary {
+    background-color: var(--label-primary-bg-color);
+    color: var(--label-text-color);
+}
+.label-info {
+    background-color: var(--label-info-bg-color);
+    color: var(--label-text-color);
+}
+.label-success {
+    background-color: var(--label-success-bg-color);
+    color: var(--label-text-color);
+}
+.label-warning {
+    background-color: var(--label-warning-bg-color);
+    color: var(--label-text-color);
+}
+.label-danger {
+    background-color: var(--label-danger-bg-color);
+    color: var(--label-text-color);
 }
 
 .code-wrapper {
@@ -42,6 +69,12 @@
     --highlight-top-head: #000;
     --the-dialogue-sender: #414750;
     --the-dialogue-responder: #0f65a9;
+    --label-text-color: #dedede;
+    --label-primary-bg-color: #502996;
+    --label-info-bg-color: #3375b9;
+    --label-success-bg-color: #4e8e2f;
+    --label-warning-bg-color: #a77730;
+    --label-danger-bg-color: #b25252;
 }
 
 .the-dialogue header {
