@@ -1,6 +1,6 @@
 ---
-title: 全屋定制
-excerpt: 全屋柜子定制，床榻榻米
+title: 定制柜子
+excerpt: 材料，计算面积，市场价格
 categories: [house]
 tags: [全屋定制]
 index_img: /img/house/custom.jpg
