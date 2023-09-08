@@ -1,8 +1,10 @@
 ---
 title: c4d
 excerpt: 闪退等问题
-categories: [house, 3D]
-tags: [custom]
+categories: 
+    - [house]
+    - [3D]
+tags: [全屋定制]
 index_img: /img/house/c4d.jpg
 banner_img: /img/house/c4d.jpg
 date: 2023-09-02 15:33:57

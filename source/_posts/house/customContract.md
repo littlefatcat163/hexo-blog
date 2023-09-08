@@ -3,7 +3,7 @@ title: 全屋定制合同
 excerpt: 签订合同防坑指南
 categories: [house]
 tags:
-    - custom
+    - 全屋定制
     - 合同
 index_img: /img/house/custom.jpg
 banner_img: /img/house/custom.jpg

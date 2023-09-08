@@ -2,7 +2,7 @@
 title: 全屋定制
 excerpt: 全屋柜子定制，床榻榻米
 categories: [house]
-tags: [custom]
+tags: [全屋定制]
 index_img: /img/house/custom.jpg
 banner_img: /img/house/custom.jpg
 date: 2023-08-26 21:17:04
