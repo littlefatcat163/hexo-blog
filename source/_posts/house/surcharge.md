@@ -56,7 +56,11 @@ date: 2023-09-08 15:16:15
 <font class=success-text>最好18mm，升级得加多少钱？</font>
 
 ### 十、见光板
+
+{% gi %}
+![没有见光板](/img/house/jianguang-not.jpg)
 ![见光板](/img/house/jianguang.jpg)
+{% endgi %}
 <font class=warning-text>这个是要问清楚价格的，套餐可能没有。</font>
 
-## 十一、超过的投影面积怎么算
+### 十一、超过的投影面积怎么算

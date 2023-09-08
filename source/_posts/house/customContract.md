@@ -25,16 +25,20 @@ mermaid: true
 柜体、柜门、背板 材料、环保、厚度等必须分开写。
 {% endnote %}
 
-尤其是<font class=danger-text><b>背板</b></font>，不问默认用的是<font class=warning-text><b>5mm的密度板，</b>它是没办法封边的，千万别用</font>。<font class=success-text>至少<b>9mm</b>的背板，预算够的话可以上<b>18mm</b>，稳固性和环保性都要更好</font>。
+![厚度](/img/house/door/board-t.jpg)
+尤其是<font class=danger-text><b>背板</b></font>，不问默认用的是<font class=danger-text><b>5mm的密度板，</b>它是没办法封边的，千万别用</font>。
+为了节约成本，商家建议选用<b class=warning-text>9mm</b>的薄背板，忽悠节约衣柜空间，实际上，背板太薄无法打钉，必须在内部开槽固定，并没有解决柜内面积，还导致柜体结构不够牢固，承重力不好，开槽后，板芯暴露，受潮容易变形，甚至发霉。<font class=warning-text>至少<b>9mm</b>的背板</font>，<font class=success-text>预算够的话可以上<b>18mm</b>，稳固性和环保性都要更好</font>。
 
 ### 二、封边方式
 
 {% note danger %}
-一定要问清楚是 eva、pur、激光封边？
+一定要问清楚是 EVA、PUR、激光封边？
 {% endnote %}
-<font class=info-text>激光封边是最好的</font>，<font class=warning-text>eva是最差的</font>，<font class=success-text>选pur性价比最高。</font>
-如果预算紧张，eva封边也可以，正常应用而已，没那么容易坏的。<font class=warning-text>浅色的门板慎用，因为有黑色胶线。</font><font class=danger-text>柜体柜门需要分开来备注。很多商家柜门用的是pur，柜体用的还是eva。</font>
-![eva](/img/house/fengbian.jpg)
+{% label success @EVA 和 PUR 差距不大，如果价格差太远，还是选EVA %}
+<font class=info-text>激光封边是最好的</font>，<font class=warning-text>EVA是最差的</font>，<font class=success-text>选PUR性价比最高。</font>
+如果预算紧张，EVA封边也可以，正常应用而已，没那么容易坏的。<font class=warning-text>浅色的门板慎用，因为有黑色胶线。</font><font class=danger-text>柜体柜门需要分开来备注。很多商家柜门用的是PUR，柜体用的还是EVA。</font>
+
+![EVA](/img/house/fengbian.jpg)
 
 ### 三、五金
 {% note danger %}
