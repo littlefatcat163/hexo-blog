@@ -46,6 +46,8 @@ mermaid: true
 {% endnote %}
 
 ### 四、报价
+投影面积进行讨价还价，[板材规格](/blog/2023/09/08/house/brand/)是很大的，投影面积是按 1m² 计算，<b class=warning-text>这 1m² 是包含了所有的东西，如 五金、拉手 等配件</b>，而且并<font class=danger-text>不是每个平方都有用到配件</font>。
+
 {% note danger %}
 合同价是否为最终价格，且包含运费、安装费、上楼费等杂费。
 {% endnote %}

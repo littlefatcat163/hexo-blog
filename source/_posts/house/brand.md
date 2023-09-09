@@ -14,6 +14,7 @@ date: 2023-09-08 15:38:38
 ## 板材
 国内标准规格：{% label info @1200 * 2440 mm %} <font class=success-text> 1.2 * 2.44 = 2.928 m²</font>
 进口板材<b class=warning-text>（爱格板）</b>尺寸：{% label warning @2070 * 2800 mm %} <font class=success-text> 2.07 * 2.8 = 5.796 m²</font>
+![价格](/img/house/quote.jpg)
 
 ### 颗粒板
 价格：<b class=success-text>￥100 ~ 130 / 张</b>
@@ -32,7 +33,7 @@ date: 2023-09-08 15:38:38
 <font class=warning-text>爱格板，大品牌一般报价1800/平左右，小品牌报价不稳定。</font>
 
 ## 五金
-
+价格：<font class=success-text>根据品牌、部位、型号，上各大电商平台查</font>
 ### 国产品牌 {% label success @性价比高 %}
 
 {% note success %}
