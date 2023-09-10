@@ -45,22 +45,24 @@ document.getElementById('signIn').onclick = function (e) {
     if (!testLogged()) {
         return;
     }
-    const formData = new FormData(document.getElementById('login'));
-    const username = formData.get('username');
-    const password = formData.get('password');
-    const token = '07bb53649d1a6a6ea66fa37d2e3584f5c30731b69e23f6e9ce2b9ca31b0935502f85a4410b5d256f37a61ab9d2c1b08ef71d217ede3929644f80e6e2329b99da';
-    updateLoggedTime();
-    testLogged();
-    if (CryptoJS.SHA512(`${username} - ${password}`).toString() !== token) {
-        updateFromErr(true);
-        return;
-    }
-    updateFormInputStatus(true);
-    document.getElementById('signIn').querySelector('svg').style.display = 'inline';
-    setTimeout(() => {
-        sessionStorage.setItem('token', token);
-        window.location.href = '/blog';
-    }, Math.max(Math.min(Math.floor(Math.random() * 10), 4)) * 1000);
+    requestAnimationFrame(() => {
+        const formData = new FormData(document.getElementById('login'));
+        const username = formData.get('username');
+        const password = formData.get('password');
+        const token = '07bb53649d1a6a6ea66fa37d2e3584f5c30731b69e23f6e9ce2b9ca31b0935502f85a4410b5d256f37a61ab9d2c1b08ef71d217ede3929644f80e6e2329b99da';
+        updateLoggedTime();
+        testLogged();
+        if (CryptoJS.SHA512(`${username} - ${password}`).toString() !== token) {
+            updateFromErr(true);
+            return;
+        }
+        updateFormInputStatus(true);
+        document.getElementById('signIn').querySelector('svg').style.display = 'inline';
+        setTimeout(() => {
+            sessionStorage.setItem('token', token);
+            window.location.href = '/blog';
+        }, (Math.floor(Math.random() * (7 - 1)) + 1) * 1000);
+    });
 }
 
 if (!testLogged()) {
