@@ -22,6 +22,14 @@ function updateFormInputStatus(disabled) {
     $form.querySelector('button').disabled = disabled;
 }
 
+function updateFromErr(hasErr) {
+    if (hasErr) {
+        document.getElementById('login').className = 'error-form';
+    } else {
+        document.getElementById('login').className = '';
+    }
+}
+
 function testLogged() {
     if (!allowLogin()) {
         updateFormInputStatus(true);
@@ -33,6 +41,7 @@ function testLogged() {
 
 document.getElementById('signIn').onclick = function (e) {
     e.preventDefault();
+    updateFromErr(false);
     if (!testLogged()) {
         return;
     }
@@ -43,13 +52,17 @@ document.getElementById('signIn').onclick = function (e) {
     updateLoggedTime();
     testLogged();
     if (CryptoJS.SHA512(`${username} - ${password}`).toString() !== token) {
+        updateFromErr(true);
         return;
     }
     updateFormInputStatus(true);
+    document.getElementById('signIn').querySelector('svg').style.display = 'inline';
     setTimeout(() => {
         sessionStorage.setItem('token', token);
         window.location.href = '/blog';
     }, Math.max(Math.min(Math.floor(Math.random() * 10), 4)) * 1000);
 }
 
-testLogged();
+if (!testLogged()) {
+    updateFromErr(true);
+}
