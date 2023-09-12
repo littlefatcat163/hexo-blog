@@ -41,7 +41,7 @@ date: 2023-09-10 17:21:28
 ## 增项 {% label danger @报价贵 %}
 
 ### 1. 玻璃门
-<b class=danger-text>多少钱 / m² ？</b>
+<b class=danger-text>多少钱 / m² ？</b> ———— <b class=warning-text> ￥ 1000 / m² ，不够 1m² 按 1m²算，一块玻璃按 1 m²，有点坑</b>
 报价单上一块的价格 <b class=danger-text>￥558</b>，一块面积也就<b class=warning-text> 0.31m²</b>，也就是 <b class=danger-text>￥ 1800 / m²</b>，抢钱？就算是打{% label danger @65折 %}，也要<b class=danger-text>￥ 1170 / m²</b>，远远高于市场价 <b class=success-text>￥ 300 / m²</b>
 
 ### 2. 金色铝边框
@@ -56,6 +56,10 @@ date: 2023-09-10 17:21:28
 
 ### 5. 餐边柜
 <b class=warning-text>整体价格太贵，没什么可以做的，不要</b>
+
+### 6. 电视板 {% label success @好 %}
+
+单纯一块板的价格， <b class=success-text>￥ 300 / m²</b>
 
 
 ## 样板房 {% label danger @割韭菜 %}
