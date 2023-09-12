@@ -23,8 +23,8 @@
 ## multiple img
 ```md
 {% gi %}
-![](/img1)
-![](/img2)
+![](/img/xx.jpg)
+![](/img/xx.jpg)
 {% endgi %}
 ```
 
