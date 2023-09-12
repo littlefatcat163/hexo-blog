@@ -1,8 +1,10 @@
 ---
 title: {{ title }}
 excerpt: abstract
-categories: [develop]
-tags: [develop]
+categories:
+  - categorise
+tags:
+  - tag
 index_img: /img/hexo.webp
 banner_img: /img/hexo.webp
 date: {{ date }}
