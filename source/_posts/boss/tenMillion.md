@@ -3,10 +3,10 @@ title: 个体户怎么挣到一千万
 excerpt: 取决于你的对手是不是很强
 categories:
   - [BigBoss]
-  - [商业案例]
+  - [提升认知]
 tags:
   - boss
-  - case
+  - 进阶
 index_img: /img/boss/index.jpg
 banner_img: /img/boss/boss-baby.webp
 date: 2023-09-14 22:42:22
