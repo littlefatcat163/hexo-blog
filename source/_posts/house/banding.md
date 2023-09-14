@@ -11,6 +11,13 @@ date: 2023-09-09 00:44:40
 <font class=danger-text>封边条和封边工艺不好，很容易受潮发胀。</font>
 市场上主要有四种封边方式：木工封边，EVA封边，PUR封边，激光封边。
 
+## 甲醛
+{% note warning %}
+甲醛根本除不掉，除甲醛这个事本身就是骗傻子的，甲醛一定是无色无味的，甲醛它的释放是有时间的，就是没认知的人会觉得除甲醛是个项目，有认知的人觉得除甲醛都是骗人的。
+{% endnote %}
+<b class=success-text>甲醛挥发的速度取决于它封边的技术</b>，就是你那块板子在工厂封边做得好，那甲醛就散不出来，那块板子如果做得不好，<b class=warning-text>封边技术很差，那甲醛就会一直散一直散一直散</b>，你根本除不掉的，就是我们那个实木的板子，压到一起去，它里面有胶，那个胶里面是必须要含甲醛的，没甲醛的粘不上。
+<b class=danger-text>除甲醛这个事本身就是骗傻子的，这玩意源自于走街串巷卖老鼠药那帮人他们研发出来的。</b>
+
 ## EVA封边
 ![EVA封边](/img/house/banding/EVA.jpg)
 现有品牌的全屋定制<b class=info-text>99%的柜体</b>都是{% label info @EVA热熔胶机器封边 %}，<b class=info-text>80%以上的柜门</b>也是{% label info @EVA封边 %}，<font class=warning-text>激光和PUR封边只占一小部分</font>。
