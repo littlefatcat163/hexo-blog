@@ -3,7 +3,7 @@ title: 毛桃罐头同行竞价
 excerpt: 同行内卷严重，恶意竞价
 categories:
   - [BigBoss]
-  - [商业案例]
+  - [同行竞争]
 tags:
   - boss
   - case

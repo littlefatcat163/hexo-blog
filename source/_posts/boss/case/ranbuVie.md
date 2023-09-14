@@ -4,6 +4,7 @@ excerpt: 一条街上很多染坊，店铺生意一天不如一天
 categories:
   - [BigBoss]
   - [《大染坊》]
+  - [同行竞争]
 tags:
   - boss
   - case
