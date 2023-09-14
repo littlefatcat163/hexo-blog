@@ -2,6 +2,7 @@
     --highlight-top-head: #f2f2f2;
     --the-dialogue-sender: #f0f0f0;
     --the-dialogue-responder: #d7ecff;
+    --primary-text-color: #502996;
     --info-text-color: #409EFF;
     --success-text-color: #67C23A;
     --warning-text-color: #E6A23C;
@@ -13,7 +14,9 @@
     --label-warning-bg-color: #ebb563;
     --label-danger-bg-color: #f78989;
 }
-
+.primary-text {
+    color: var(--primary-text-color);
+}
 .info-text {
     color: var(--info-text-color);
 }
@@ -90,6 +93,23 @@
     border-radius: 6px;
 }
 
+.the-dialogue div.sender,
+.the-dialogue div.responder {
+    display: flex;
+    background-color: transparent;
+    padding: 0;
+}
+
+.the-dialogue div.sender > p,
+.the-dialogue div.responder > p {
+    background-color: var(--the-dialogue-sender);
+    margin-bottom: 0;
+    padding: 8px 12px;
+    word-break: break-all;
+    border-radius: 6px;
+    max-width: 85%;
+}
+
 .the-dialogue .sender::before,
 .the-dialogue .responder::before {
     content: attr(title);
@@ -126,6 +146,15 @@
 .the-dialogue .responder {
     background-color: var(--the-dialogue-responder);
     text-align: right;
+}
+
+.the-dialogue div.responder {
+    background-color: transparent;
+    text-align: left;
+    justify-content: end;
+}
+.the-dialogue div.responder > p {
+    background-color: var(--the-dialogue-responder);
 }
 
 .the-dialogue .responder::before {
