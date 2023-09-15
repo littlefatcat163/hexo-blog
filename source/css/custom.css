@@ -10,9 +10,9 @@
     --label-text-color: #fdfdfd;
     --label-primary-bg-color: #8352db;
     --label-info-bg-color: #3a8de4;
-    --label-success-bg-color: #85ce61;
-    --label-warning-bg-color: #ebb563;
-    --label-danger-bg-color: #f78989;
+    --label-success-bg-color: #6bcc3d;
+    --label-warning-bg-color: #e9a641;
+    --label-danger-bg-color: #e15858;
 }
 .primary-text {
     color: var(--primary-text-color);
@@ -74,10 +74,10 @@
     --the-dialogue-responder: #0f65a9;
     --label-text-color: #dedede;
     --label-primary-bg-color: #502996;
-    --label-info-bg-color: #3375b9;
-    --label-success-bg-color: #4e8e2f;
-    --label-warning-bg-color: #a77730;
-    --label-danger-bg-color: #b25252;
+    --label-info-bg-color: #1a64b1;
+    --label-success-bg-color: #3f851e;
+    --label-warning-bg-color: #a16e21;
+    --label-danger-bg-color: #a52525;
 }
 
 .the-dialogue header {
