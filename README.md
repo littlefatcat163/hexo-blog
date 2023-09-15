@@ -58,3 +58,25 @@ secondary
 light
 {% endnote %}
 ```
+
+## 对话
+
+```html
+<article class="the-dialogue">
+	<header>
+    <h2>
+      果园生产毛桃罐头
+    </h2>
+  </header>
+  <div class="sender" title="your">
+    <p>
+
+    </p>
+  </div>
+  <div class="responder" title="me">
+    <p>
+
+    </p>
+  </div>
+</article>
+```
