@@ -18,10 +18,10 @@ date: 2023-09-14 19:27:11
 <b class=warning-text>烧钱推广，让更多的人只能见到我的东西。</b>
 
 ### 二、小而美 {% label info @包装卖文化 %}
-<b class=info-text>编故事来包装产品，什么受众人群，产品来源，有什么特点，数量少是怎么回事！</b>
+<b class=warning-text>在卖出去之前</b>，<b class=info-text>编故事来包装产品，什么受众人群，产品来源，有什么特点，数量少是怎么回事！</b>
 
 ### 三、还有更贵的产品在那标着 {% label success @抬高价格 %}
-{% label success @基于第二点 %}，做出少部分数量高价的产品，同样也是卖文化，为什么这些贵？差别在哪？因为数量少，各种限制因素导致的！
+{% label info @基于第二点 %}，做出少部分数量高价的产品，同样也是卖文化，为什么这些贵？差别在哪？因为数量少，各种限制因素导致的！
 比如<b class=danger-text>这东西同行卖 100</b>，<b class=warning-text>你却卖 500</b>， 已经是算贵了，但是你的目标群众是那些消费得起的人，但是人家一样会对比价格，这个时候有个<b class=success-text>更高的产品价 2000 在那标着</b>，有对比，大家也就不会对 <b class=warning-text>500</b> 这个价感觉贵了！
 
 <article class="the-dialogue">
