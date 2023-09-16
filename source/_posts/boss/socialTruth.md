@@ -1,5 +1,5 @@
 ---
-title: 高端大师那些画得稀奇古怪的，拍出个天价
+title: 大师稀奇古怪的画，拍出个天价
 excerpt: 社会真相，你能看懂吗？
 categories:
   - [BigBoss]

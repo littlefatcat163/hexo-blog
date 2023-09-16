@@ -68,6 +68,7 @@
     width: 12px;
 }
 [data-user-color-scheme="dark"] {
+    --post-text-color: #c3c3c3;
     --highlight-bg-color: #0c0c0c;
     --highlight-top-head: #000;
     --the-dialogue-sender: #414750;
@@ -120,7 +121,6 @@
     text-decoration-line: underline;
     cursor: pointer;
     opacity: 0.65;
-    /* color: #a6a6a6; */
 }
 
 .the-dialogue .sender::after,
