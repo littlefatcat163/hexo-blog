@@ -49,7 +49,7 @@
     --the-dialogue-sender: #414750;
     --the-dialogue-responder: #0f65a9;
     --label-text-color: #dedede;
-    --primary-text-color: #a472ff;
+    --primary-text-color: #ad8adb;
     --info-text-color: #6edff6;
     --success-text-color: #75b798;
     --warning-text-color: #ffda6a;
@@ -87,23 +87,23 @@
 
 .text-primary,
 .primary-text {
-    color: var(--primary-text-color);
+    color: var(--primary-text-color)!important;
 }
 .text-info,
 .info-text {
-    color: var(--info-text-color);
+    color: var(--info-text-color)!important;
 }
 .text-success,
 .success-text {
-    color: var(--success-text-color);
+    color: var(--success-text-color)!important;
 }
 .text-warning,
 .warning-text {
-    color: var(--warning-text-color);
+    color: var(--warning-text-color)!important;
 }
 .text-danger,
 .danger-text {
-    color: var(--danger-text-color);
+    color: var(--danger-text-color)!important;
 }
 
 .label-primary {
