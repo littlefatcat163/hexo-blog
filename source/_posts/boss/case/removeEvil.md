@@ -4,9 +4,11 @@ excerpt: 提前除害，对于不忠不义之徒，铲除
 categories:
   - [BigBoss]
   - [《大染坊》]
+  - [处理人际关系]
 tags:
   - boss
   - case
+  - 管理人
 index_img: /img/boss/index.jpg
 banner_img: /img/boss/boss-baby.webp
 date: 2023-09-17 11:13:09
