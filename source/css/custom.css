@@ -3,17 +3,32 @@
     --the-dialogue-sender: #f0f0f0;
     --the-dialogue-responder: #d7ecff;
     --primary-text-color: #502996;
-    --info-text-color: #409EFF;
-    --success-text-color: #67C23A;
-    --warning-text-color: #E6A23C;
+    --info-text-color: #087990;
+    --success-text-color: #146c43;
+    --warning-text-color: #997404;
     --danger-text-color: #F56C6C;
     --label-text-color: #fdfdfd;
-    --label-primary-bg-color: #8352db;
-    --label-info-bg-color: #3a8de4;
-    --label-success-bg-color: #6bcc3d;
-    --label-warning-bg-color: #e9a641;
-    --label-danger-bg-color: #e15858;
+    --label-primary-bg-color: #653eab;
+    --label-info-bg-color: #0a58ca;
+    --label-success-bg-color: #198754;
+    --label-warning-bg-color: #ffc107;
+    --label-danger-bg-color: #b02a37;
 }
+[data-user-color-scheme="dark"] {
+    --post-text-color: #dedede;
+    --highlight-bg-color: #0c0c0c;
+    --highlight-top-head: #000;
+    --the-dialogue-sender: #414750;
+    --the-dialogue-responder: #0f65a9;
+    --label-text-color: #dedede;
+    --primary-text-color: #a472ff;
+    --info-text-color: #6edff6;
+    --success-text-color: #75b798;
+    --warning-text-color: #ffda6a;
+    --danger-text-color: #ea868f;
+}
+
+
 .primary-text {
     color: var(--primary-text-color);
 }
@@ -44,7 +59,7 @@
 }
 .label-warning {
     background-color: var(--label-warning-bg-color);
-    color: var(--label-text-color);
+    color: #202020;
 }
 .label-danger {
     background-color: var(--label-danger-bg-color);
@@ -66,19 +81,6 @@
     margin-top: -15px;
     position: absolute;
     width: 12px;
-}
-[data-user-color-scheme="dark"] {
-    --post-text-color: #dedede;
-    --highlight-bg-color: #0c0c0c;
-    --highlight-top-head: #000;
-    --the-dialogue-sender: #414750;
-    --the-dialogue-responder: #0f65a9;
-    --label-text-color: #dedede;
-    --label-primary-bg-color: #502996;
-    --label-info-bg-color: #1a64b1;
-    --label-success-bg-color: #3f851e;
-    --label-warning-bg-color: #a16e21;
-    --label-danger-bg-color: #a52525;
 }
 
 .the-dialogue header {
