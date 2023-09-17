@@ -14,11 +14,11 @@
 
 ## font color
 ```html
-<b class=primary-text>primary</b>
-<b class=info-text>info</b>
-<b class=success-text>success</b>
-<b class=warning-text>warning</b>
-<b class=danger-text>danger</b>
+<b class=text-primary>primary</b>
+<b class=text-info>info</b>
+<b class=text-success>success</b>
+<b class=text-warning>warning</b>
+<b class=text-danger>danger</b>
 ```
 
 ## multiple img

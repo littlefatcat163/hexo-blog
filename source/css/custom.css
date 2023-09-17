@@ -49,9 +49,9 @@
     --the-dialogue-sender: #414750;
     --the-dialogue-responder: #0f65a9;
     --label-text-color: #dedede;
-    --primary-text-color: #ad8adb;
+    --primary-text-color: #c19cf1;
     --info-text-color: #6edff6;
-    --success-text-color: #75b798;
+    --success-text-color: #79edb7;
     --warning-text-color: #ffda6a;
     --danger-text-color: #ea868f;
 
@@ -109,22 +109,27 @@
 .label-primary {
     background-color: var(--label-primary-bg-color);
     color: var(--label-text-color);
+    font-weight: bold;
 }
 .label-info {
     background-color: var(--label-info-bg-color);
     color: var(--label-text-color);
+    font-weight: bold;
 }
 .label-success {
     background-color: var(--label-success-bg-color);
     color: var(--label-text-color);
+    font-weight: bold;
 }
 .label-warning {
     background-color: var(--label-warning-bg-color);
     color: #202020;
+    font-weight: bold;
 }
 .label-danger {
     background-color: var(--label-danger-bg-color);
     color: var(--label-text-color);
+    font-weight: bold;
 }
 
 .note-primary {
