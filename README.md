@@ -14,6 +14,7 @@
 
 ## font color
 ```html
+<b class=primary-text>primary</b>
 <b class=info-text>info</b>
 <b class=success-text>success</b>
 <b class=warning-text>warning</b>
