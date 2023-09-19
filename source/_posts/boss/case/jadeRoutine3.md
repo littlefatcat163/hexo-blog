@@ -14,7 +14,7 @@ banner_img: /img/boss/boss-baby.webp
 date: 2023-09-18 17:24:39
 ---
 
-> [返回玉石套路](/blog/2023/09/18/boss/case/jadeRoutine)
+> [返回玉石套路](/blog/2023/09/18/boss/case/jadeRoutine#four)
 
 <article class="the-dialogue">
 	<header>
@@ -201,7 +201,7 @@ date: 2023-09-18 17:24:39
       <br><br>
       通过我们这些环节下来，先是代购，又是蒙包、拍卖什么之类的，我们是不是能够筛选出来一些有钱的，不懂得还爱玩的这些优质客户，这些客户在我们这都是大宝贝啊！我们那套跟踪体系下来，定期的我们组织一些品鉴会啊什么之类的，邀请他们过来参加，只要你愿意来，什么飞机票呀，什么住宿呀！全给你报了。
       <br><br>
-      只要你到到我这来，我们这玩石头有句话叫做 <b class="label label-warning">一刀下去，一刀穷，一刀富</b>，<font class=text-warning>一刀下去几百万说没就没了！</font>
+      只要你到我这来，我们这玩石头有句话叫做 <b class="label label-warning">一刀下去，一刀穷，一刀富</b>，<font class=text-warning>一刀下去几百万说没就没了！</font>
     </p>
   </div>
   <div class="responder" title="小白">
@@ -212,4 +212,4 @@ date: 2023-09-18 17:24:39
 </article>
 
 
-> [返回玉石套路](/blog/2023/09/18/boss/case/jadeRoutine)
+> [返回玉石套路](/blog/2023/09/18/boss/case/jadeRoutine#four)

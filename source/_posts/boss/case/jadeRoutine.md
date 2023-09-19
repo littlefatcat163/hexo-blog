@@ -108,7 +108,7 @@ date: 2023-09-18 14:42:23
 
 <article class="the-dialogue">
 	<header>
-    <h2>
+    <h2 id="four">
       <span class="label label-success">四个阶段</span>
     </h2>
   </header>

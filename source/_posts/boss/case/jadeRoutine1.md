@@ -14,7 +14,7 @@ banner_img: /img/boss/boss-baby.webp
 date: 2023-09-18 16:22:25
 ---
 
-> [返回玉石套路](/blog/2023/09/18/boss/case/jadeRoutine)
+> [返回玉石套路](/blog/2023/09/18/boss/case/jadeRoutine#four)
 
 <article class="the-dialogue">
 	<header>
@@ -310,10 +310,10 @@ date: 2023-09-18 16:22:25
   </div>
   <div class="responder" title="小白">
     <p>
-      哎哟，我的妈啊！你们这是在污染别人的智商啊！比这还狠，那能狠出啥？你快说我听听。
+      哎哟，我的妈啊！你们这是在侮辱别人的智商啊！比这还狠，那能狠出啥？你快说我听听。
     </p>
   </div>
 </article>
 
 
-> [返回玉石套路](/blog/2023/09/18/boss/case/jadeRoutine)
+> [返回玉石套路](/blog/2023/09/18/boss/case/jadeRoutine#four)
