@@ -39,7 +39,7 @@ git help config
 
 ```sh
 git config --global user.name "littlefatcat"
-git config --global user.eamil "littlefatcat@163.com"
+git config --global user.email "littlefatcat@163.com"
 git config --global color.ui true
 ```
 
