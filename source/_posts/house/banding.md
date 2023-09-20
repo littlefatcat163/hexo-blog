@@ -24,7 +24,7 @@ date: 2023-09-09 00:44:40
 
 ## PUR封边
 ![PUR封边](/img/house/banding/PUR.jpg)
-<b class=danger-text>成本高</b>，也是有胶线，<b class=warning-text>实际效果比EVA好一些，用胶量是EVA封边的一半</b>，效果没法和激光封边比，市面上也不多，<b class=info-text>有实力的厂家都会有</b>。
+<b class=warning-text>稍微贵点</b>，也是有胶线，<b class=success-text>实际效果比EVA好，用胶量是EVA封边的一半</b>，效果没法和激光封边比，市面上也不多，<b class=info-text>有实力的厂家都会有</b>。
 
 ## 激光封边
 ![德国瑞好的激光封边门](/img/house/banding/JG.jpg)

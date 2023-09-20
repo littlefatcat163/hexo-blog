@@ -113,8 +113,36 @@ date: 2023-09-10 17:21:28
 总价：<b class=success-text>￥ 8000 / 月</b>
 半年样板房租金：<b class=success-text>￥ 48000 </b> —— {% label success @可以抵全屋定制所有费用！%}
 
+### 7. 环保级别 E0 {% label warning @落伍 %} {% label danger @贵 %}
+
+> [环保等级排序](/blog/2023/09/12/house/chooseCustomMade#envSort)
+
+{% note warning %}
+E0 只是个概念啊！没有任何标准，到现在还说是E0基本已经被市场淘汰了的。
+{% endnote %}
+
+{% note danger %}
+最差的封边，还这么贵！凭啥？
+{% endnote %}
+
+### 8. 封边 ENA {% label warning @落伍 %} {% label danger @贵 %}
+
+> [封边明细](/blog/2023/09/09/house/banding)
+
+{% note danger %}
+最差的封边，还这么贵！凭啥？
+{% endnote %}
+
+
+### 9. 墙漆 98 / 方 {% label danger @贵 %}
+
+市场价：<b class=success-text>￥50 ~ 70 / 方</b>
+
+这个是按{% label warning @建筑面积 %}算，一方比市场价又高出了 30，假如你的房子是100方，{% label warning @忽略什么公摊面积和套内面积 %}，算下<font class=text-danger>差价 100 * 30 = 3000， 平白无故 3000 又给赚走了</font>！
+
+
 ## 总结
 
 至爱智家 完全就是个智障，只能收割小白人！没什么实力，负责人也没啥话语权，工厂在梅州，很小！材料更是加了 名词去忽悠人，什么 {% label danger @加州胡桃实木多层 %}，具体请参考 [木材说明](/blog/2023/09/07/house/wood)
 
-<font class=text-warning>要啥没啥，优势没优势，价格贵，性价比也没，专坑业主。</font>
+<font class=text-warning>要啥没啥，优势没优势，价格贵，性价比也没，专坑小白人。</font>

@@ -49,7 +49,7 @@ date: 2023-09-12 01:41:22
 爱格、可丽芙、克诺斯邦、芬萨、菲莱德、丽特曼、萨博、住友
 
 
-## 环保等级排序 {% label success @F4 ~ ENF ~ E0 %} {% label primary @家用选择E0以上 %}
+<h2 id="envSort">环保等级排序 {% label success @F4 ~ ENF ~ E0 %} {% label primary @家用选择E0以上 %}</h2>
 
 {% gi %}
 ![](/img/house/chooseCustomMade/huanbaoLv1.jpg)
