@@ -65,7 +65,19 @@ date: 2023-09-10 17:21:28
 作为品牌服务商的你们，不至于这基本的合格条件都没有吧！小品牌的商贩都支持，你作为品牌方，没理由不行的！
 {% endnote %}
 
-### 4. 玻璃门 {% label danger @超贵 %}
+### 4. 抽屉 {% label danger @超贵 %}
+市场价：<b class=success-text>￥200 ~ 500 / 个</b>
+
+{% note danger %}
+板材已经很高价了，抽屉还一个都不送！而且一个贼贵！680 / 个。
+{% endnote %}
+
+{% note info %}
+其他品牌上来都直接送五个抽屉的！
+{% endnote %}
+
+
+### 5. 玻璃门 {% label danger @超贵 %}
 市场价：<b class=success-text>￥300 ~ 500 / 方</b>
 
 报价单上面餐边柜的小玻璃门 {% label danger @￥ 558 / 个 %}，一块的面积也就是 {% label info @0.31方 %}，{% label primary @558 / 0.31 %} 算下来就是 {% label danger @￥ 1800 / 方 %} 的玻璃，你啥破玻璃啊！这么贵！
@@ -77,7 +89,7 @@ date: 2023-09-10 17:21:28
 怪不得疯狂向你推他们的餐边柜，原来是这玩意利润贼高，一个打完65折下来还要价 7500！你要是因为送你的一个小小的插座板就买了，智商真的没啥了！
 {% endnote %}
 
-### 5. 灯带 {% label danger @贵 %}
+### 6. 灯带 {% label danger @贵 %}
 市场价：<b class=success-text>￥100 / 米</b> 包含变压器一个，控制开关一个。
 {% note warning %}
 灯带只是装饰用而已，可有可无，而且还增加维护成本，可以考虑不作！
@@ -87,7 +99,7 @@ date: 2023-09-10 17:21:28
 这个商家 {% label danger @￥ 320 / 米 %}，打完65折也要 {% label danger @￥ 208 / 个 %}，<font class=text-danger>高出市场价两倍。</font>
 
 
-### 6. 样板房享65折 {% label danger @割韭菜 %}
+### 7. 样板房享65折 {% label danger @割韭菜 %}
 
 {% note danger %}
 这里就可以看出这个商家基本没啥实力，完全就是挣小白人的钱！
@@ -113,7 +125,7 @@ date: 2023-09-10 17:21:28
 总价：<b class=success-text>￥ 8000 / 月</b>
 半年样板房租金：<b class=success-text>￥ 48000 </b> —— {% label success @可以抵全屋定制所有费用！%}
 
-### 7. 环保级别 E0 {% label warning @落伍 %} {% label danger @贵 %}
+### 8. 环保级别 E0 {% label warning @落伍 %} {% label danger @贵 %}
 
 > [环保等级排序](/blog/2023/09/12/house/chooseCustomMade#envSort)
 
@@ -125,7 +137,7 @@ E0 只是个概念啊！没有任何标准，到现在还说是E0基本已经被
 最差的封边，还这么贵！凭啥？
 {% endnote %}
 
-### 8. 封边 ENA {% label warning @落伍 %} {% label danger @贵 %}
+### 9. 封边 ENA {% label warning @落伍 %} {% label danger @贵 %}
 
 > [封边明细](/blog/2023/09/09/house/banding)
 
@@ -134,14 +146,14 @@ E0 只是个概念啊！没有任何标准，到现在还说是E0基本已经被
 {% endnote %}
 
 
-### 9. 墙漆 98 / 方 {% label danger @贵 %}
+### 10. 墙漆 98 / 方 {% label danger @贵 %}
 
 市场价：<b class=success-text>￥50 ~ 70 / 方</b>
 
 这个是按{% label warning @建筑面积 %}算，一方比市场价又高出了 30，假如你的房子是100方，{% label warning @忽略什么公摊面积和套内面积 %}，算下<font class=text-danger>差价 100 * 30 = 3000， 平白无故 3000 又给赚走了</font>！
 
 
-## 总结
+## 总结 {% label warning @抠门 %} {% label danger @巨坑 %}
 
 至爱智家 完全就是个智障，只能收割小白人！没什么实力，负责人也没啥话语权，工厂在梅州，很小！材料更是加了 名词去忽悠人，什么 {% label danger @加州胡桃实木多层 %}，具体请参考 [木材说明](/blog/2023/09/07/house/wood)
 
