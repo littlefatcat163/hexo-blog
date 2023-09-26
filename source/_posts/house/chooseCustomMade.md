@@ -22,15 +22,17 @@ date: 2023-09-12 01:41:22
 ### 密度板 {% label danger @避雷 %}
 要避雷的就是密度板，这种板材最大的<b class=success-text>特点就是便宜和可做造型</b>，一般都出现在{% label primary @成品家具 %}中，<b class=warning-text>缺点甲醛大，不耐潮容易变形</b>。
 
+### 颗粒板 {% label warning @市面最多 %}
+将木材打碎，混合胶水热压成板材，用胶量很大，质量占比10%。<font class=text-warning>市面上大多用的是颗粒板，平整度好，稳定性不错，价格优惠</font>，但同时市面上的颗粒板市场鱼龙混杂，水很深，建议{% label primary @选择大品牌的颗粒板做柜门和柜体 %}。<font class=text-danger>一线品牌被抽查几率大，造假成本太高</font>。
+
 ### 多层板
 多层板<b class=success-text>握钉力和承重力都很强，也很耐潮</b>，但是<b class=warning-text>容易变形而且价格贵</b>，一般用在{% label primary @厨房和卫生间 %}。
 
 ### 生态板
 生态板大多数用于{% label primary @木工打柜子 %}，<b class=success-text>优点就是木质软容易加工</b>，<b class=warning-text>缺点是容易变形</b>。
 
-{% note info %}
-市面上大多用的是颗粒板，平整度好，稳定性不错，价格优惠，但同时市面上的颗粒板市场鱼龙混杂，水很深，建议选择大品牌德颗粒板做柜门和柜体
-{% endnote %}
+### 禾香板 {% label success @万华禾香板 %}
+颗粒板、多层板的一种，{% label primary @20%秸秆 + 80%木材 %} 打碎压制成板材；号称<b class=danger-text>无醛胶，环保enf最高等级</b>。这个材料也是目前市场比较火的，但是握钉力和承重力小于多层板，而且市面上{% label danger @假货多，难分辨 %}，如果要选禾香板，就认准  {% label success @万华禾香板 %}。
 
 <h2 id="brand">品牌</h2>
 
