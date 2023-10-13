@@ -1,6 +1,6 @@
 {
   "name": "blog",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "private": true,
   "scripts": {
     "build": "hexo clean && hexo generate",
@@ -24,7 +24,7 @@
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^0.0.3",
-    "hexo-theme-lfluid": "^1.0.0",
+    "hexo-theme-lfluid": "^1.2.0",
     "hexo-yam": "^8.0.0"
   }
 }
