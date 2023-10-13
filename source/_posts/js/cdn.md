@@ -15,12 +15,7 @@ date: 2023-10-04 10:39:15
 ## CDN 加速服务
 
 - [https://www.bootcdn.cn/](https://www.bootcdn.cn/)
+- [https://cdn.baomitu.com](https://cdn.baomitu.com)
 - [https://www.staticfile.org/](https://www.staticfile.org/)
 
-
-## 后面地址后面加js库名称 /
-
-- [https://unpkg.zhimg.com/](https://unpkg.zhimg.com/)
-
-- 如 jquery [https://unpkg.zhimg.com/jquery/](https://unpkg.zhimg.com/jquery/)
 
