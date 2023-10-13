@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fluid
+theme: lfluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
@@ -107,4 +107,56 @@ deploy:
   repo: git@github.com:littlefatcat163/blog.git
   branch: [main]
 
-neat_enable: true
+minify:
+  enable: true
+  html:
+    enable: true
+    exclude:
+  css:
+    enable: true
+    exclude:
+      - '*.min.css'
+  js:
+    enable: true
+    exclude:
+      - '*.min.js'
+  svg:
+    enable: false
+  gzip:
+    enable: true
+    include:
+      - '*.html'
+      - '*.css'
+      - '*.js'
+      - '*.txt'
+      - '*.ttf'
+      - '*.atom'
+      - '*.stl'
+      - '*.xml'
+      - '*.svg'
+      - '*.eot'
+      - '*.json'
+  brotli:
+    enable: false
+    include:
+      - '*.html'
+      - '*.css'
+      - '*.js'
+      - '*.txt'
+      - '*.ttf'
+      - '*.atom'
+      - '*.stl'
+      - '*.xml'
+      - '*.svg'
+      - '*.eot'
+      - '*.json'
+  xml:
+    enable: true
+    include:
+      - '*.xml'
+      - '!*.min.xml'
+  json:
+    enable: true
+    include:
+      - '*.json'
+      - '!*.min.json'
