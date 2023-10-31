@@ -4,7 +4,7 @@ excerpt: 计算机有哪些信息是唯一的？不会经常变的
 categories: [computer]
 tags: [base, develop]
 index_img: /img/base/url.jpg
-banner_img: /img/hexo.webp
+# banner_img: /img/hexo.webp
 date: 2023-10-18 12:45:16
 ---
 

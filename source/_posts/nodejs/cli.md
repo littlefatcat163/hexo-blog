@@ -1,12 +1,14 @@
 ---
-title: post
-excerpt: abstract
+title: npm 脚手架
+excerpt: nodejs 自定义脚手架
 categories:
-  - categorise
+  - [front-end]
+  - [back-end]
 tags:
-  - tag
-index_img: /img/hexo.webp
-banner_img: /img/hexo.webp
+  - develop
+  - nodejs
+index_img: /img/nodejs/npm.webp
+banner_img: /img/nodejs/nodejs.jpg
 date: 2023-10-20 15:32:50
 ---
 
@@ -27,3 +29,14 @@ my-cil 目录下执行 ， npm link 生成全局软链接到这个库，每次�
 
 #!/usr/bin/env node 这句话写到脚本文件开头，这样执行 npx my-cli的时候，操作系统就会使用 Node.js 来执行js
 注意上面的格式是 Unix风格的，也就是使用LF（换行符）作为行尾符号，如果你使用的是window系统，你需要在编辑器中将行尾字符设置为LF，或者使用类似Unix系统的编辑器来编辑文件
+
+## npx 和 npm create 执行脚手架
+
+### npx
+
+如下所示 `npx create-lnote test2` 
+1. npx 将去找 create-lnote 包下的 bin 配置对应的js，执行，后面都是这个命令的参数
+
+### npm create
+
+`npm create lnote test2` 跟上面类似，只是create去执行，规定了 lnote 这个包的名字必须是 create-lnote 才能加载到，然后找本地有没有 create-lnote，没有就去npm仓库上面找，临时下载下来，用完就删，接下来的执行内容就很上面一样了
