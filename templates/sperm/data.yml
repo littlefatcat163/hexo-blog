@@ -1,0 +1,659 @@
+arr:
+  - name: 广东省妇幼保健院
+    day: 6
+    results:
+      - 睡眠不规律，肉多，菜少，不吃水果，可能维生素不够
+      - 排精当天睡眠质量好些，排精过后3天开始睡眠质量下降
+      - 用脑过多，思绪太多，消耗过大，压力山大
+    livings:
+      - 25号排精两次
+      - 25号23点入睡，睡眠5小时，深度睡眠57分
+      - 27号00点24分入睡，睡眠8小时，深度睡眠1小时
+      - 28号00点52分入睡，睡眠7小时，深度睡眠53分
+      - 29号03点入睡，睡眠7小时，深度睡眠23分
+      - 30号01点19分入睡，03点到06点30分失眠，睡眠3小时，深度睡眠30分
+      - 31号失眠，没睡
+      - 31号早上吃两个水煮蛋，出门去医院检查
+      - 回到住处，很累，很困，9点半睡到12点半
+      - 醒来后没精神，整天人都很困，后脑感觉肿胀
+      - 这几天饮食很好，汤、鱼、茶、鸡、饭，但是菜吃得少，水果没吃
+      - 31号排精4次
+      - 11月1号02点06分入睡，睡眠5小时59分，深度睡眠1小时3分
+      - 工作饱满，休息时间少，头脑思考多
+      - 开始吃 仁和锌硒片，一天2~3颗
+      - 一天一个无菌蛋生吃，两个水煮蛋白
+    dataSources:
+      - text: PH值
+        value: 7.5
+        done: true
+      - text: 精液量
+        value: 5.1 ml
+        done: true
+      - text: 精液浓度
+        value: 1.6 百万/ml
+        done: false
+        err: 少于 15百万/ml
+      - text: 前向运动
+        value: 19 %
+        done: false
+        err: 少于 32 %
+      - text: 精子总数
+        value: 8.16 百万
+        done: false
+        err: 少于 39 百万
+      - text: 总活力
+        value: 23.8 %
+        done: false
+        err: 少于 40 %
+      - text: 存活率
+        value: 0 %
+        done: false
+        err: 少于 58 %
+    date: "20231031"
+    status: danger
+    symptoms:
+      - status: danger
+        text: 中度少精子症（精子总数小于10百万）
+      - status: danger
+        text: 弱精子症
+  - name: 广东省妇幼保健院
+    day: 2
+    results:
+      - 睡眠还行，肉吃得多，菜吃得少，没吃水果，可能维生素不够
+      - 排精两天，接近检查的时候睡眠不好
+      - 用脑过多，思绪太多，消耗过大，压力山大
+    livings:
+      - 15、16、18号各排精一次
+      - 18号22点30分入睡，睡眠9小时11分，深度睡眠1小时57分
+      - 20号00点31分入睡，睡眠7小时23分，深度睡眠58分
+      - 21号23点52分入睡，睡眠7小时，深度睡眠33分钟
+      - 22号排精一次
+      - 23号01点39分点入睡，睡眠5小时42分，深度睡眠51分
+      - 24号01点22分入睡，睡眠6小时50分，深度睡眠30分
+      - 25号02点入睡，睡眠4小时51分，深度睡眠57分
+      - 25号早上什么都没吃
+      - 烧烤、快餐、吃得很杂，总体不差，就是菜还是吃得少，没吃水果
+      - 羊肉吃得也多，但似乎作用不大
+      - 25号排精两次
+    dataSources:
+      - text: PH值
+        value: 7.5
+        done: true
+      - text: 精液量
+        value: 4.9 ml
+        done: true
+      - text: 精液浓度
+        value: 2.3 百万/ml
+        done: false
+        err: 少于 15百万/ml
+      - text: 前向运动
+        value: 10.2 %
+        done: false
+        err: 少于 32 %
+      - text: 精子总数
+        value: 11.27 百万
+        done: false
+        err: 少于 39 百万
+      - text: 总活力
+        value: 11.9 %
+        done: false
+        err: 少于 40 %
+      - text: 存活率
+        value: 0 %
+        done: false
+        err: 少于 58 %
+    date: "20231025"
+    status: warning
+    symptoms:
+      - status: warning
+        text: 轻度少精子症（精子总数小于15百万）
+      - status: danger
+        text: 弱精子症
+  - name: 广东省妇幼保健院
+    day: 3
+    results:
+      - 睡眠差，焦虑
+      - 菜吃得少，没吃水果，可能维生素不够
+    livings:
+      - 已经停止吃药
+      - 简单的快餐
+    dataSources:
+      - text: PH值
+        value: 7.5
+        done: true
+      - text: 精液量
+        value: 5.0 ml
+        done: true
+      - text: 精液浓度
+        value: 4.3 百万/ml
+        done: false
+        err: 少于 15百万/ml
+      - text: 前向运动
+        value: 13.5 %
+        done: false
+        err: 少于 32 %
+      - text: 精子总数
+        value: 21.5 百万
+        done: false
+        err: 少于 39 百万
+      - text: 总活力
+        value: 21.6 %
+        done: false
+        err: 少于 40 %
+      - text: 存活率
+        value: 35 %
+        done: false
+        err: 少于 58 %
+    date: "20230704"
+    status: info
+    symptoms:
+      - status: info
+        text: 轻微少精子症（精子总数小于39百万）
+      - status: danger
+        text: 弱精子症
+  - name: 广东省妇幼保健院
+    day: 4
+    results:
+      - 睡眠差，焦虑
+      - 菜吃得少，没吃水果，可能维生素不够
+    livings:
+      - 吃药减少
+      - 简单的快餐
+    dataSources:
+      - text: PH值
+        value: 7.5
+        done: true
+      - text: 精液量
+        value: 4.1 ml
+        done: true
+      - text: 精液浓度
+        value: 7.4 百万/ml
+        done: false
+        err: 少于 15百万/ml
+      - text: 前向运动
+        value: 4.4 %
+        done: false
+        err: 少于 32 %
+      - text: 精子总数
+        value: 30.34 百万
+        done: false
+        err: 少于 39 百万
+      - text: 总活力
+        value: 9.7 %
+        done: false
+        err: 少于 40 %
+      - text: 存活率
+        value: 52 %
+        done: false
+        err: 少于 58 %
+    date: "20230620"
+    status: info
+    symptoms:
+      - status: info
+        text: 轻微少精子症（精子总数小于39百万）
+      - status: danger
+        text: 弱精子症
+  - name: 中山大学附属第一医院
+    day: 6
+    results:
+      - 睡眠差，焦虑
+      - 菜吃得少，没吃水果，可能维生素不够
+    livings:
+      - 吃药减少
+      - 简单的快餐
+    dataSources:
+      - text: PH值
+        value: 7.5
+        done: true
+      - text: 精液量
+        value: 4.0 ml
+        done: true
+      - text: 精液浓度
+        value: 19.2 百万/ml
+        done: true
+      - text: 前向运动
+        value: 29.1 %
+        done: false
+        err: 少于 32 %
+      - text: 精子总数
+        value: 76.8 百万
+        done: true
+      - text: 总活力
+        value: 11.9 %
+        done: false
+        err: 少于 40 %
+      - text: 存活率
+        value: 0 %
+        done: false
+        err: 少于 58 %
+    date: "20230616"
+    status: success
+    symptoms:
+      - status: success
+        text: 正常
+      - status: danger
+        text: 弱精子症
+  - name: 广东省妇幼保健院
+    day: 4
+    results:
+      - 五月份睡眠好，吃得开心，睡得安心
+      - 饭菜肉、海鲜、水果均衡吃，每天吃得多
+      - 治疗好支原体感染，性病，不用焦虑，公共厕所也是有可能感染到的，很容易处理
+    livings:
+      - 饮食营养均衡，经常吃沙拉生蔬菜
+      - 5月份平均睡眠7小时，23点前入睡，平均深度睡41分钟
+      - S*宁泌泰胶囊 3盒 12天
+      - G*多西环素片 2盒 12天
+      - G*X金水宝片 6盒 12天
+    dataSources:
+      - text: PH值
+        value: 7.5
+        done: true
+      - text: 精液量
+        value: 6.2 ml
+        done: true
+      - text: 精液浓度
+        value: 20.6 百万/ml
+        done: true
+      - text: 前向运动
+        value: 32.7 %
+        done: true
+      - text: 精子总数
+        value: 41.54 百万
+        done: true
+      - text: 总活力
+        value: 52.3 %
+        done: true
+      - text: 存活率
+        value: 67 %
+        done: true
+    date: "20230606"
+    status: success
+    symptoms:
+      - status: success
+        text: 正常
+      - status: success
+        text: 正常
+  - name: 广东省妇幼保健院
+    day: 4
+    results:
+      - 不开心，怎么问题一直这样，没能解决
+      - 支原体感染，性病，更焦虑了
+    livings:
+      - 饮食营养均衡，经常吃沙拉生蔬菜
+      - 焦虑，日常担心被裁员
+      - S*宁泌泰胶囊 3盒 12天
+      - G*多西环素片 2盒 12天
+      - G*X金水宝片 6盒 12天
+    dataSources:
+      - text: PH值
+        value: 7.5
+        done: true
+      - text: 精液量
+        value: 4.3 ml
+        done: true
+      - text: 精液浓度
+        value: 5.8 百万/ml
+        done: false
+        err: 少于 15百万/ml
+      - text: 前向运动
+        value: 29.1 %
+        done: false
+        err: 少于 32 %
+      - text: 精子总数
+        value: 24.94 百万
+        done: false
+        err: 少于 39 百万
+      - text: 总活力
+        value: 47.9 %
+        done: true
+      - text: 存活率
+        value: 66 %
+        done: true
+    date: "20230503"
+    status: info
+    symptoms:
+      - status: info
+        text: 轻微少精子症（精子总数小于39百万）
+      - status: danger
+        text: 弱精子症
+  - name: 广州医科大学附属第三医院
+    day: 4
+    results:
+      - 同样的药，吃了三个月，没啥效果
+    livings:
+      - 焦虑
+      - 百令胶囊
+      - 左卡尼汀口服液
+      - 龙鹿胶囊
+      - 十一酸睾酮
+    dataSources:
+      - text: PH值
+        value: 7.5
+        done: true
+      - text: 精液量
+        value: 3.8 ml
+        done: true
+      - text: 精液浓度
+        value: 8.2 百万/ml
+        done: false
+        err: 少于 15百万/ml
+      - text: 前向运动
+        value: 16 %
+        done: false
+        err: 少于 32 %
+      - text: 精子总数
+        value: 31.16 百万
+        done: false
+        err: 少于 39 百万
+      - text: 总活力
+        value: 27 %
+        done: false
+        err: 少于 40 %
+      - text: 存活率
+        value: 70 %
+        done: true
+    date: "20230412"
+    status: info
+    symptoms:
+      - status: info
+        text: 轻微少精子症（精子总数小于39百万）
+      - status: danger
+        text: 弱精子症
+  - name: 广州医科大学附属第三医院
+    day: 4
+    results:
+      - 同样的药，吃了两个月，没啥效果
+    livings:
+      - 焦虑
+      - 百令胶囊
+      - 左卡尼汀口服液
+      - 龙鹿胶囊
+      - 十一酸睾酮
+    dataSources:
+      - text: PH值
+        value: 7.5
+        done: true
+      - text: 精液量
+        value: 5.5 ml
+        done: true
+      - text: 精液浓度
+        value: 4.0 百万/ml
+        done: false
+        err: 少于 15百万/ml
+      - text: 前向运动
+        value: 32 %
+        done: true
+      - text: 精子总数
+        value: 22.00 百万
+        done: false
+        err: 少于 39 百万
+      - text: 总活力
+        value: 32 %
+        done: false
+        err: 少于 40 %
+      - text: 存活率
+        value: 68 %
+        done: true
+    date: "20230307"
+    status: info
+    symptoms:
+      - status: info
+        text: 轻微少精子症（精子总数小于39百万）
+      - status: danger
+        text: 弱精子症
+  - name: 广东省中医院
+    day: 2
+    results:
+      - 同样的药，吃了半年多，没啥效果
+    livings:
+      - 焦虑
+      - 左卡尼汀口服液
+      - 维生素E软胶囊（东维力）
+      - 红花、生地黄、覆盆子、川芎、赤芍、黄芪、淫羊藿、石菖蒲、丹参、桑葚、土茯苓、补骨脂、茯神
+    dataSources:
+      - text: PH值
+        value: 7.5
+        done: true
+      - text: 精液量
+        value: 4.8 ml
+        done: true
+      - text: 精液浓度
+        value: 5.4 百万/ml
+        done: false
+        err: 少于 15百万/ml
+      - text: 前向运动
+        value: 16.2 %
+        done: false
+        err: 少于 32 %
+      - text: 精子总数
+        value: 25.9 百万
+        done: false
+        err: 少于 39 百万
+      - text: 总活力
+        value: 21.8 %
+        done: false
+        err: 少于 40 %
+      - text: 存活率
+        value: 39 %
+        done: false
+        err: 少于 58 %
+    date: "20221119"
+    status: info
+    symptoms:
+      - status: info
+        text: 轻微少精子症（精子总数小于39百万）
+      - status: danger
+        text: 弱精子症
+  - name: 广东省中医院
+    day: 4
+    results:
+      - 同样的药，吃了半年多，没啥效果
+    livings:
+      - 焦虑
+      - 左卡尼汀口服液
+      - 维生素E软胶囊（东维力）
+      - 红花、生地黄、覆盆子、川芎、赤芍、黄芪、淫羊藿、石菖蒲、丹参、桑葚、土茯苓、补骨脂、茯神
+    dataSources:
+      - text: PH值
+        value: 7.5
+        done: true
+      - text: 精液量
+        value: 5.0 ml
+        done: true
+      - text: 精液浓度
+        value: 6.3 百万/ml
+        done: false
+        err: 少于 15百万/ml
+      - text: 前向运动
+        value: 18.3 %
+        done: false
+        err: 少于 32 %
+      - text: 精子总数
+        value: 31.5 百万
+        done: false
+        err: 少于 39 百万
+      - text: 总活力
+        value: 37.8 %
+        done: false
+        err: 少于 40 %
+      - text: 存活率
+        value: 53 %
+        done: false
+        err: 少于 58 %
+    date: "20221011"
+    status: info
+    symptoms:
+      - status: info
+        text: 轻微少精子症（精子总数小于39百万）
+      - status: danger
+        text: 弱精子症
+  - name: 广东省中医院
+    day: 5
+    results:
+      - 同样的药，吃了半年多，没啥效果
+    livings:
+      - 焦虑
+      - 左卡尼汀口服液
+      - 维生素E软胶囊（东维力）
+      - 红花、生地黄、覆盆子、川芎、赤芍、黄芪、淫羊藿、石菖蒲、丹参、桑葚、土茯苓、补骨脂、茯神
+    dataSources:
+      - text: PH值
+        value: 7.5
+        done: true
+      - text: 精液量
+        value: 5.4 ml
+        done: true
+      - text: 精液浓度
+        value: 3.8 百万/ml
+        done: false
+        err: 少于 15百万/ml
+      - text: 前向运动
+        value: 14.0 %
+        done: false
+        err: 少于 32 %
+      - text: 精子总数
+        value: 20.5 百万
+        done: false
+        err: 少于 39 百万
+      - text: 总活力
+        value: 27.1 %
+        done: false
+        err: 少于 40 %
+      - text: 存活率
+        value: 28 %
+        done: false
+        err: 少于 58 %
+    date: "20220923"
+    status: info
+    symptoms:
+      - status: info
+        text: 轻微少精子症（精子总数小于39百万）
+      - status: danger
+        text: 弱精子症
+  - name: 广东省中医院
+    day: 3
+    results:
+      - 同样的药，吃了半年多，没啥效果
+    livings:
+      - 焦虑
+      - 左卡尼汀口服液
+      - 维生素E软胶囊（东维力）
+      - 红花、生地黄、覆盆子、川芎、赤芍、黄芪、淫羊藿、石菖蒲、丹参、桑葚、土茯苓、补骨脂、茯神
+    dataSources:
+      - text: PH值
+        value: 7.5
+        done: true
+      - text: 精液量
+        value: 5.6 ml
+        done: true
+      - text: 精液浓度
+        value: 9.5 百万/ml
+        done: false
+        err: 少于 15百万/ml
+      - text: 前向运动
+        value: 15.6 %
+        done: false
+        err: 少于 32 %
+      - text: 精子总数
+        value: 53.2 百万
+        done: true
+      - text: 总活力
+        value: 21.2 %
+        done: false
+        err: 少于 40 %
+      - text: 存活率
+        value: 22 %
+        done: false
+        err: 少于 58 %
+    date: "20220802"
+    status: success
+    symptoms:
+      - status: success
+        text: 正常
+      - status: danger
+        text: 弱精子症
+  - name: 广东省中医院
+    day: 7
+    results:
+      - 同样的药，吃了半年多，没啥效果
+    livings:
+      - 焦虑
+      - 左卡尼汀口服液
+      - 维生素E软胶囊（东维力）
+      - 红花、生地黄、覆盆子、川芎、赤芍、黄芪、淫羊藿、石菖蒲、丹参、桑葚、土茯苓、补骨脂、茯神
+    dataSources:
+      - text: PH值
+        value: 7.5
+        done: true
+      - text: 精液量
+        value: 8.7 ml
+        done: true
+      - text: 精液浓度
+        value: 6.9 百万/ml
+        done: false
+        err: 少于 15百万/ml
+      - text: 前向运动
+        value: 13.2 %
+        done: false
+        err: 少于 32 %
+      - text: 精子总数
+        value: 60.0 百万
+        done: true
+      - text: 总活力
+        value: 19.1 %
+        done: false
+        err: 少于 40 %
+      - text: 存活率
+        value: 28 %
+        done: false
+        err: 少于 58 %
+    date: "20220625"
+    status: success
+    symptoms:
+      - status: success
+        text: 正常
+      - status: danger
+        text: 弱精子症
+  - name: 广东省中医院
+    day: 5
+    results:
+      - 同样的药，吃了半年多，没啥效果
+    livings:
+      - 焦虑
+      - 左卡尼汀口服液
+      - 维生素E软胶囊（东维力）
+      - 红花、生地黄、覆盆子、川芎、赤芍、黄芪、淫羊藿、石菖蒲、丹参、桑葚、土茯苓、补骨脂、茯神
+    dataSources:
+      - text: PH值
+        value: 7.5
+        done: true
+      - text: 精液量
+        value: 7.1 ml
+        done: true
+      - text: 精液浓度
+        value: 5.8 百万/ml
+        done: false
+        err: 少于 15百万/ml
+      - text: 前向运动
+        value: 12.1 %
+        done: false
+        err: 少于 32 %
+      - text: 精子总数
+        value: 41.2 百万
+        done: true
+      - text: 总活力
+        value: 20.1 %
+        done: false
+        err: 少于 40 %
+      - text: 存活率
+        value: 27 %
+        done: false
+        err: 少于 58 %
+    date: "20220527"
+    status: success
+    symptoms:
+      - status: success
+        text: 正常
+      - status: danger
+        text: 弱精子症

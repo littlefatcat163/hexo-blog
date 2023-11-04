@@ -1,0 +1,43 @@
+name: 广东省妇幼保健院
+day: 3
+results:
+  - 睡眠差，焦虑
+  - 菜吃得少，没吃水果，可能维生素不够
+livings: 
+  - 已经停止吃药
+  - 简单的快餐
+
+dataSources:
+
+  - text: PH值
+    value: 7.5
+
+  - text: 精液量
+    value: 5.0 ml
+
+  - text: 精液浓度
+    value: 4.3 百万/ml
+
+  # - text: (A级)前向运动精子
+  #   value: 0.9 %
+
+  # - text: (B级)前向运动精子
+  #   value: 12.6 %
+
+  # - text: (C级)非前向运动精子
+  #   value: 8.1 %
+
+  # - text: (D级)不运动精子
+  #   value: 78.4 %
+
+  - text: 前向运动
+    value: 13.5 %
+
+  - text: 精子总数
+    value: 21.5 百万
+
+  - text: 总活力
+    value: 21.6 %
+
+  - text: 存活率
+    value: 35 %

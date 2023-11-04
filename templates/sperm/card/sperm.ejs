@@ -1,0 +1,46 @@
+<div class="container">
+  <div class="row row-cols-2">
+    <% arr.forEach(item => { %>
+    <div class="col">
+      <div class="card">
+        <div class="card-header fs-6 fw-bold text-bg-warning position-relative">
+          <%= item.name %>
+          <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
+            <%= item.date %>
+          </span>
+        </div>
+        <div class="card-body">
+          <%- include('sperm-body', { label: '颜色', value: item.color, err: null }) %>
+          <%- include('sperm-body', { label: '精液量', value: `${item.vol}ml`, err: 'done' }) %>
+          <%- include('sperm-body', { label: '精液量', value: '什么', err: '不行了' }) %>
+          <div class="row mb-3">
+            <label class="col-4 col-form-label text-end">颜色</label>
+            <div class="col-8">
+              <input readonly type="text" class="form-control is-invalid" value="<%= item.color %>" />
+              <div class="invalid-feedback">
+                Please choose a username.
+              </div>
+            </div>
+          </div>
+
+          <div class="input-group mb-3">
+            <span class="input-group-text">颜色</span>
+            <input readonly type="text" class="form-control is-valid" value="灰白" />
+          </div>
+          <div class="input-group mb-3">
+            <span class="input-group-text">精液量</span>
+            <input readonly type="text" class="form-control is-valid" value="5.1ml" />
+          </div>
+          <div class="input-group mb-3">
+            <span class="input-group-text">浓度</span>
+            <input readonly type="text" class="form-control is-invalid" value="1.6百万/ml" />
+            <div id="validationServerUsernameFeedback" class="invalid-feedback">
+              Please choose a username.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <% }) %>
+  </div>
+</div>

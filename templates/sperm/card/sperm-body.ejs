@@ -1,0 +1,15 @@
+<div class="row mb-3">
+  <label class="col-4 col-form-label text-end"><%= label %></label>
+  <div class="col-8">
+    <% if (err == null) { %>
+    <input readonly type="text" class="form-control" value="<%= value %>" />
+    <% } else if (err === 'done') { %>
+    <input readonly type="text" class="form-control is-valid" value="<%= value %>" />
+    <% } else { %>
+    <input readonly type="text" class="form-control is-invalid" value="<%= value %>" />
+    <div class="invalid-feedback">
+      <%= err %>
+    </div>
+    <% } %>
+  </div>
+</div>

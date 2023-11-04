@@ -1,0 +1,31 @@
+name: 中山大学附属第一医院
+day: 6
+results:
+  - 睡眠差，焦虑
+  - 菜吃得少，没吃水果，可能维生素不够
+livings: 
+  - 吃药减少
+  - 简单的快餐
+
+dataSources:
+
+  - text: PH值
+    value: 7.5
+
+  - text: 精液量
+    value: 4.0 ml
+
+  - text: 精液浓度
+    value: 19.2 百万/ml
+
+  - text: 前向运动
+    value: 29.1 %
+
+  - text: 精子总数
+    value: 76.8 百万
+
+  - text: 总活力
+    value: 11.9 %
+
+  - text: 存活率
+    value: 0 %

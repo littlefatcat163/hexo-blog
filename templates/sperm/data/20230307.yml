@@ -1,0 +1,34 @@
+name: 广州医科大学附属第三医院
+day: 4
+
+results:
+  - 同样的药，吃了两个月，没啥效果
+livings: 
+  - 焦虑
+  - 百令胶囊
+  - 左卡尼汀口服液
+  - 龙鹿胶囊
+  - 十一酸睾酮
+
+dataSources:
+
+  - text: PH值
+    value: 7.5
+
+  - text: 精液量
+    value: 5.5 ml
+
+  - text: 精液浓度
+    value: 4.0 百万/ml
+
+  - text: 前向运动
+    value: 32 %
+
+  - text: 精子总数
+    value: 22.00 百万
+
+  - text: 总活力
+    value: 32 %
+
+  - text: 存活率
+    value: 68 %

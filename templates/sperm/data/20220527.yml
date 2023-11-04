@@ -1,0 +1,32 @@
+name: 广东省中医院
+day: 5
+results:
+  - 同样的药，吃了半年多，没啥效果
+livings: 
+  - 焦虑
+  - 左卡尼汀口服液
+  - 维生素E软胶囊（东维力）
+  - 红花、生地黄、覆盆子、川芎、赤芍、黄芪、淫羊藿、石菖蒲、丹参、桑葚、土茯苓、补骨脂、茯神
+
+dataSources:
+
+  - text: PH值
+    value: 7.5
+
+  - text: 精液量
+    value: 7.1 ml
+
+  - text: 精液浓度
+    value: 5.8 百万/ml
+
+  - text: 前向运动
+    value: 12.1 %
+
+  - text: 精子总数
+    value: 41.2 百万
+
+  - text: 总活力
+    value: 20.1 %
+
+  - text: 存活率
+    value: 27 %

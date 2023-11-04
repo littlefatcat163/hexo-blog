@@ -2,6 +2,7 @@
 
 - [hexo](https://hexo.io/zh-cn/docs/)
 - [hexo fluid](https://hexo.fluid-dev.com/docs/guide/)
+- [mermaid](https://mermaid.js.org/intro/)
 
 ## tag label
 ```

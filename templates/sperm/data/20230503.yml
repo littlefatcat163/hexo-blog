@@ -1,0 +1,35 @@
+name: 广东省妇幼保健院
+day: 4
+
+results:
+  - 不开心，怎么问题一直这样，没能解决
+  - 支原体感染，性病，更焦虑了
+livings: 
+  - 饮食营养均衡，经常吃沙拉生蔬菜
+  - 焦虑，日常担心被裁员
+  - S*宁泌泰胶囊 3盒 12天
+  - G*多西环素片 2盒 12天
+  - G*X金水宝片 6盒 12天
+
+dataSources:
+
+  - text: PH值
+    value: 7.5
+
+  - text: 精液量
+    value: 4.3 ml
+
+  - text: 精液浓度
+    value: 5.8 百万/ml
+
+  - text: 前向运动
+    value: 29.1 %
+
+  - text: 精子总数
+    value: 24.94 百万
+
+  - text: 总活力
+    value: 47.9 %
+
+  - text: 存活率
+    value: 66 %
