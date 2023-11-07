@@ -1,6 +1,6 @@
 {
   "name": "blog",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "private": true,
   "type": "module",
   "scripts": {
@@ -28,11 +28,13 @@
     "hexo-renderer-marked": "^6.0.0",
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
-    "hexo-theme-lnote": "^1.0.2",
-    "hexo-yam": "^8.0.0",
-    "lnote-cmds": "^1.0.0"
+    "hexo-theme-lnote": "^1.0.6",
+    "hexo-yam": "^8.0.0"
   },
   "devDependencies": {
+    "lnote-cmds": "^1.0.2",
+    "lnote-esm": "^1.0.2",
+    "lodash": "^4.17.21",
     "ts-node": "^10.9.1",
     "typescript": "^5.2.2",
     "vue": "^3.3.7",
