@@ -113,7 +113,7 @@ lnote_licenses:
   - 777cf-48349-8125c-7ca1c-0816d-1dd96-feb84-ca137-cd074-348e5-d5fcc-966f2-638a
 
 minify:
-  enable: false
+  enable: true
   html:
     enable: true
     exclude:

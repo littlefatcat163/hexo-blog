@@ -2,7 +2,7 @@
     --the-dialogue-sender: #f0f0f0;
     --the-dialogue-responder: #d7ecff;
 }
-[data-user-color-scheme="dark"] {
+[data-bs-theme=dark] {
     --the-dialogue-sender: #414750;
     --the-dialogue-responder: #0f65a9;
 }
