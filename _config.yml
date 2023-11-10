@@ -44,18 +44,15 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
+
+# 代码高亮配置，不能删
 highlight:
   enable: true
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace: ''
   wrap: true
-  hljs: false
-prismjs:
-  enable: false
-  preprocess: true
-  line_number: true
-  tab_replace: ''
+  hljs: true
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -116,7 +113,7 @@ lnote_licenses:
   - 777cf-48349-8125c-7ca1c-0816d-1dd96-feb84-ca137-cd074-348e5-d5fcc-966f2-638a
 
 minify:
-  enable: true
+  enable: false
   html:
     enable: true
     exclude:
