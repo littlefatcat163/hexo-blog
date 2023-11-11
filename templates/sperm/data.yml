@@ -1,5 +1,45 @@
 arr:
   - name: 广东省妇幼保健院
+    day: 2.5
+    results:
+      - 用脑过多，思绪太多，消耗好大
+      - 睡眠质量提高
+    livings:
+      - 工作饱满，休息时间少，头脑思考多
+      - 吃 仁和锌硒片，一天2~3颗，持续一周
+      - 一天一个无菌蛋生吃，两个水煮蛋白
+      - 牛奶，水果、沙拉
+    dataSources:
+      - text: PH值
+        value: 7.5
+        done: true
+      - text: 精液量
+        value: 3 ml
+        done: true
+      - text: 精液浓度
+        value: 15.4 百万/ml
+        done: true
+      - text: 前向运动
+        value: 27.3 %
+        done: false
+        err: 少于 32 %
+      - text: 精子总数
+        value: 46.2 百万
+        done: true
+      - text: 总活力
+        value: 46.1 %
+        done: true
+      - text: 存活率
+        value: 66 %
+        done: true
+    date: "20231111"
+    status: success
+    symptoms:
+      - status: success
+        text: 正常
+      - status: danger
+        text: 弱精子症
+  - name: 广东省妇幼保健院
     day: 6
     results:
       - 睡眠不规律，肉多，菜少，不吃水果，可能维生素不够
