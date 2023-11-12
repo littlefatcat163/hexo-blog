@@ -16,9 +16,6 @@ hexo.extend.injector.register('head_begin', __globalScript, 'default');
 hexo.extend.injector.register('head_begin', getScript(`/${name}/js/authorization.js`), 'default');
 hexo.extend.injector.register('head_begin', `<link rel="stylesheet" href="/${name}/css/custom.css" />`, 'default');
 
-hexo.extend.filter.register('theme_inject', function(injects) {
+/* hexo.extend.filter.register('theme_inject', function(injects) {
     injects.footer.raw('default', `<div class="footer-inner"><div class="footer-content"><a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span> <i class="iconfont icon-love"></i> ${version}</a></div></div>`);
-});
-
-/* console.log('...')
-console.log(process.argv) */
+}); */
