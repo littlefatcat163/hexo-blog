@@ -1,6 +1,6 @@
 {
   "name": "blog",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "private": true,
   "type": "module",
   "scripts": {
@@ -28,7 +28,7 @@
     "hexo-renderer-marked": "^6.0.0",
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
-    "hexo-theme-lnote": "^1.1.7",
+    "hexo-theme-lnote": "^1.2.0",
     "hexo-yam": "^8.0.0"
   },
   "devDependencies": {
