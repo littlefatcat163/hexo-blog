@@ -112,6 +112,30 @@ deploy:
 lnote_licenses:
   - 777cf-48349-8125c-7ca1c-0816d-1dd96-feb84-ca137-cd074-348e5-d5fcc-966f2-638a
 
+jsonContent:
+  meta: false
+  pages: false
+  dafts: false
+  file: content.json
+  keywords: false
+  dateFormat: false
+  posts:
+    title: true
+    date: false
+    path: true
+    text: false
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: false
+    link: false
+    permalink: false
+    excerpt: true
+    categories: false
+    tags: false
+    author: false
+
 minify:
   enable: true
   html:
