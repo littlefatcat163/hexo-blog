@@ -1,0 +1,34 @@
+name: 广东省妇幼保健院
+day: 5
+results: 
+  - 用脑过多，思绪太多，消耗好大
+  - 睡眠质量提高
+  - 23号晚上睡眠不足，24号早晨起来很累，很困
+livings: 
+  - 工作饱满，休息时间少，头脑思考多
+  - 仁和锌硒片 和 牛奶 没怎么吃，也少吃生鸡蛋
+  - 两个水煮蛋白
+  - 水果、沙拉
+
+dataSources:
+
+  - text: PH值
+    value: 7.5
+
+  - text: 精液量
+    value: 4.6 ml
+
+  - text: 精液浓度
+    value: 9.8 百万/ml
+
+  - text: 前向运动
+    value: 20.8 %
+
+  - text: 精子总数
+    value: 45.08 百万
+
+  - text: 总活力
+    value: 34.6 %
+
+  - text: 存活率
+    value: 50 %
