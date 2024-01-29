@@ -1,6 +1,6 @@
 {
   "name": "blog",
-  "version": "1.2.14",
+  "version": "1.2.15",
   "private": true,
   "type": "module",
   "scripts": {
@@ -11,13 +11,13 @@
     "debug": "npx lnote-cmds debug",
     "server": "hexo server",
     "page": "npx lnote-cmds page",
-    "build-tmp-data": "node --loader ts-node/esm templates/sperm/index.ts"
+    "build-tmp-data": "node --loader ts-node/esm src/data/sperm/index.ts"
   },
   "hexo": {
-    "version": "7.0.0"
+    "version": "7.1.1"
   },
   "dependencies": {
-    "hexo": "^7.0.0",
+    "hexo": "^7.1.1",
     "hexo-alnote": "^1.0.0",
     "hexo-deployer-git": "^4.0.0",
     "hexo-generator-archive": "^2.0.0",

@@ -21,7 +21,7 @@ date: 2023-10-04 10:39:15
 
 ### 2. Staticfile CDN
 
-- [https://www.staticfile.org/](https://www.staticfile.org/) 基于CDN 加速由七牛云提供包括 JS、CSS、image 和 swf 等静态文件的，支持http和https。
+- [https://www.staticfile.net/](https://www.staticfile.net/) 基于CDN 加速由七牛云提供包括 JS、CSS、image 和 swf 等静态文件的，支持http和https。
 
 
 ### 3. 基于Github的Cdn库

@@ -13,4 +13,4 @@ date: 2023-11-02 12:15:59
 
 ## 精液报告对比
 
-{% template sperm vs.vue data.yml %}
+{% template sperm/vs.vue sperm/data.yml %}
