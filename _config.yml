@@ -111,6 +111,7 @@ deploy:
 
 lnote_licenses:
   - 777cf-48349-8125c-7ca1c-0816d-1dd96-feb84-ca137-cd074-348e5-d5fcc-966f2-638a
+  - 3300b-f424a-71822-cc6a1-89905-81570-5a325-fa96f-2b26c-101c7-6f796-6b73c-718b
 
 jsonContent:
   meta: false

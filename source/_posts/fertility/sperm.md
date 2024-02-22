@@ -30,7 +30,7 @@ date: 2023-10-31 21:37:07
 
 ## 我的精液常规数据 {% label warning @少精弱精症 %}
 
-{% template sperm/report.vue sperm/data.yml %}
+{% template sperm/ReportTab.vue sperm/data.yml %}
 
 ## 男性不孕不育
 
