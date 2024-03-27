@@ -1,16 +1,16 @@
 {
   "name": "blog",
-  "version": "1.2.15",
+  "version": "1.3.0",
   "private": true,
   "type": "module",
   "scripts": {
-    "clean": "npx lnote-cmds clean",
-    "build": "npx lnote-cmds build",
-    "deploy": "npx lnote-cmds deploy",
-    "start": "npx lnote-cmds start",
-    "debug": "npx lnote-cmds debug",
+    "clean": "hexo clean",
+    "build": "hexo generate",
+    "deploy": "hexo deploy",
+    "start": "hexo server -p 4000",
+    "debug": "hexo debug -p 4000",
     "server": "hexo server",
-    "page": "npx lnote-cmds page",
+    "page": "hexo new post --path",
     "build-tmp-data": "node --loader ts-node/esm src/data/sperm/index.ts"
   },
   "hexo": {
