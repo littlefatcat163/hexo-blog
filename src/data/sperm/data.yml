@@ -1,5 +1,86 @@
 arr:
   - name: 中山大学附属第三医院
+    day: 2
+    results:
+      - 没吃药，精子浓度低
+    livings:
+      - 经常头痛，脑子处于浑浊的状态
+      - 吃了一周的降血压药，睡眠多了，精神不振
+      - 没怎么吃青菜，水果到吃得多
+      - 三四月份经常感冒，头疼，眼睛发痒
+    dataSources:
+      - text: PH值
+        value: 8.6
+        done: true
+      - text: 精液量
+        value: 3.2 ml
+        done: true
+      - text: 精液浓度
+        value: 1 百万/ml
+        done: false
+        err: 少于 15百万/ml
+      - text: 前向运动
+        value: 23.3 %
+        done: false
+        err: 少于 32 %
+      - text: 精子总数
+        value: 3.2 百万
+        done: false
+        err: 少于 39 百万
+      - text: 总活力
+        value: 25.6 %
+        done: false
+        err: 少于 40 %
+      - text: 存活率
+        value: 无
+        done: true
+    date: "20240520"
+    status: danger
+    symptoms:
+      - status: danger
+        text: 重度少精子症（精子总数小于5百万）
+      - status: danger
+        text: 弱精子症
+  - name: 中山大学附属第三医院
+    day: 2
+    results:
+      - 没吃药，精子浓度低
+    livings:
+      - 经常头痛，脑子处于浑浊的状态
+    dataSources:
+      - text: PH值
+        value: 8.6
+        done: true
+      - text: 精液量
+        value: 3.7 ml
+        done: true
+      - text: 精液浓度
+        value: 4.2 百万/ml
+        done: false
+        err: 少于 15百万/ml
+      - text: 前向运动
+        value: 28.4 %
+        done: false
+        err: 少于 32 %
+      - text: 精子总数
+        value: 15.5 百万
+        done: false
+        err: 少于 39 百万
+      - text: 总活力
+        value: 29.9 %
+        done: false
+        err: 少于 40 %
+      - text: 存活率
+        value: 无
+        done: true
+    date: "20240311"
+    status: info
+    symptoms:
+      - status: info
+        text: 轻微少精子症（精子总数小于39百万）
+      - status: danger
+        text: 弱精子症
+  - name: 中山大学附属第三医院
     day: 3
     results:
       - 情绪影响巨大，必须减少压力，保持脑袋清爽

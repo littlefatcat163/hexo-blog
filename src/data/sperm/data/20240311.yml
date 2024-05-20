@@ -1,0 +1,29 @@
+name: 中山大学附属第三医院
+day: 2
+results: 
+  - 没吃药，精子浓度低
+livings: 
+  - 经常头痛，脑子处于浑浊的状态
+
+dataSources:
+
+  - text: PH值
+    value: 8.6
+
+  - text: 精液量
+    value: 3.7 ml
+
+  - text: 精液浓度
+    value: 4.2 百万/ml
+
+  - text: 前向运动
+    value: 28.4 %
+
+  - text: 精子总数
+    value: 15.5 百万
+
+  - text: 总活力
+    value: 29.9 %
+
+  - text: 存活率
+    value: 无

@@ -1,0 +1,32 @@
+name: 中山大学附属第三医院
+day: 2
+results: 
+  - 没吃药，精子浓度低
+livings: 
+  - 经常头痛，脑子处于浑浊的状态
+  - 吃了一周的降血压药，睡眠多了，精神不振
+  - 没怎么吃青菜，水果到吃得多
+  - 三四月份经常感冒，头疼，眼睛发痒
+
+dataSources:
+
+  - text: PH值
+    value: 8.6
+
+  - text: 精液量
+    value: 3.2 ml
+
+  - text: 精液浓度
+    value: 1 百万/ml
+
+  - text: 前向运动
+    value: 23.3 %
+
+  - text: 精子总数
+    value: 3.2 百万
+
+  - text: 总活力
+    value: 25.6 %
+
+  - text: 存活率
+    value: 无
