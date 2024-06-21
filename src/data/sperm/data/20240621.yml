@@ -1,0 +1,33 @@
+name: 广东省妇幼保健院
+day: 3.5
+results: 
+  - 精子浓度明显提高
+livings: 
+  - 睡眠时间变短，睡眠质量一般
+  - 精神状态不错
+  - 停止吃降压药
+  - 患有感冒
+  - 吃南沙药房一周，没出现什么不适
+
+dataSources:
+
+  - text: PH值
+    value: 7.5
+
+  - text: 精液量
+    value: 3.5 ml
+
+  - text: 精液浓度
+    value: 13.2 百万/ml
+
+  - text: 前向运动
+    value: 15.8 %
+
+  - text: 精子总数
+    value: 46.2 百万
+
+  - text: 总活力
+    value: 27.4 %
+
+  - text: 存活率
+    value: 72 %

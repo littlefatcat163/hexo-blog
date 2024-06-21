@@ -1,4 +1,46 @@
 arr:
+  - name: 广东省妇幼保健院
+    day: 3.5
+    results:
+      - 精子浓度明显提高
+    livings:
+      - 睡眠时间变短，睡眠质量一般
+      - 精神状态不错
+      - 停止吃降压药
+      - 患有感冒
+      - 吃南沙药房一周，没出现什么不适
+    dataSources:
+      - text: PH值
+        value: 7.5
+        done: true
+      - text: 精液量
+        value: 3.5 ml
+        done: true
+      - text: 精液浓度
+        value: 13.2 百万/ml
+        done: false
+        err: 少于 15百万/ml
+      - text: 前向运动
+        value: 15.8 %
+        done: false
+        err: 少于 32 %
+      - text: 精子总数
+        value: 46.2 百万
+        done: true
+      - text: 总活力
+        value: 27.4 %
+        done: false
+        err: 少于 40 %
+      - text: 存活率
+        value: 72 %
+        done: true
+    date: "20240621"
+    status: success
+    symptoms:
+      - status: success
+        text: 正常
+      - status: danger
+        text: 弱精子症
   - name: 中山大学附属第三医院
     day: 2
     results:
