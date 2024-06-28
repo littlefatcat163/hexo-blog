@@ -1,5 +1,43 @@
 arr:
   - name: 广东省妇幼保健院
+    day: 2
+    results:
+      - 睡眠不好，整个人的状态很累，精子浓度、活跃率相比21号下降
+    livings:
+      - 继续吃南沙药房一周，没出现什么不适
+    dataSources:
+      - text: PH值
+        value: 7.5
+        done: true
+      - text: 精液量
+        value: 4.7 ml
+        done: true
+      - text: 精液浓度
+        value: 9.6 百万/ml
+        done: false
+        err: 少于 15百万/ml
+      - text: 前向运动
+        value: 11.8 %
+        done: false
+        err: 少于 32 %
+      - text: 精子总数
+        value: 45.12 百万
+        done: true
+      - text: 总活力
+        value: 15.2 %
+        done: false
+        err: 少于 40 %
+      - text: 存活率
+        value: 62 %
+        done: true
+    date: "20240628"
+    status: success
+    symptoms:
+      - status: success
+        text: 正常
+      - status: danger
+        text: 弱精子症
+  - name: 广东省妇幼保健院
     day: 3.5
     results:
       - 精子浓度明显提高
