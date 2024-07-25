@@ -1,0 +1,30 @@
+name: 广东省妇幼保健院
+day: 4
+results: 
+  - 睡眠一般，周日到周三睡眠比较差，深度睡眠很少
+  - 上班人比较累
+livings: 
+  - 继续吃南沙药房一个月，状态不错
+
+dataSources:
+
+  - text: PH值
+    value: 7.5
+
+  - text: 精液量
+    value: 5.8 ml
+
+  - text: 精液浓度
+    value: 8.8 百万/ml
+
+  - text: 前向运动
+    value: 28 %
+
+  - text: 精子总数
+    value: 51.04 百万
+
+  - text: 总活力
+    value: 31.7 %
+
+  - text: 存活率
+    value: 50 %
