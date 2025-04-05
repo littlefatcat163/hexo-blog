@@ -1,0 +1,29 @@
+name: 广东省妇幼保健院
+day: 3
+results: 
+  - 效果不好
+livings: 
+  - 吃药一个月
+
+dataSources:
+
+  - text: PH值
+    value: 7.5
+
+  - text: 精液量
+    value: 5.8 ml
+
+  - text: 精液浓度
+    value: 3.8 百万/ml
+
+  - text: 前向运动
+    value: 16.9 %
+
+  - text: 精子总数
+    value: 12.92 百万
+
+  - text: 总活力
+    value: 28.8 %
+
+  - text: 存活率
+    value: 45 %
